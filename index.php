@@ -27,8 +27,9 @@
   <span class="menuitem"><a accesskey="2" href="http://sourceforge.net/projects/xu4">Sourceforge project page</a></span> |
   <span class="menuitem"><a accesskey="3" href="screenshots.html">Screenshots</a></span> |
   <span class="menuitem"><a accesskey="4" href="forum">Discussion Forum</a></span> |
-  <span class="menuitem"><a accesskey="5" href="download.php">Download</a></span> |
-  <span class="menuitem"><a accesskey="6" href="links.html">Links</a></span>
+  <span class="menuitem"><a accesskey="5" href="faq.html">FAQ</a></span> |
+  <span class="menuitem"><a accesskey="6" href="download.php">Download</a></span> |
+  <span class="menuitem"><a accesskey="7" href="links.html">Links</a></span>
 </div>
 <div class="divider">
   <img src="images/small-castle.png" width="96" height="32" alt="[picture of Ultima 4 castle]"/>

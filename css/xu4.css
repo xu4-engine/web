@@ -22,11 +22,9 @@ div {
     text-align: center;
 }
 
-
 .selectedmenuitem { 
     color: #ff6600;
 }
-
 
 .section {
     -moz-border-radius: .25em; padding-left: .5em;
@@ -53,6 +51,28 @@ div {
 
 .details {
     font-size: 65%;
+}
+
+ul li ul li {
+    list-style-type: disc;
+}
+
+.question {
+    font-family: sans-serif;    
+    color: #ff6600;
+    font-weight: bold;
+    indent: 1cm;
+    text-decoration: underline;
+    list-style-type: none;
+    margin-top: 15px;
+}
+
+.answer {
+    list-style-type: none;
+}
+
+.large {
+    font-size: 130%;
 }
 
 img {
