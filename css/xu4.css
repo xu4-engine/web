@@ -17,7 +17,7 @@ div {
 }
 
 .menu { 
-    font-family: sans-serif;
+    font-family: 'trebuchet ms','luxi sans',sans-serif;
     font-size: 80%;
     text-align: center;
 }
@@ -32,7 +32,7 @@ div {
 }
 
 .heading {
-    font-family: sans-serif;
+    font-family: 'trebuchet ms','luxi sans',sans-serif;
     font-weight: bold;
     color: #ff6600;
 }
@@ -58,7 +58,7 @@ ul li ul li {
 }
 
 .question {
-    font-family: sans-serif;    
+    font-family: 'trebuchet ms','luxi sans',sans-serif;
     font-weight: bold;    
     text-decoration: underline;
     list-style-type: none;
