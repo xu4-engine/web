@@ -22,9 +22,9 @@
   <p>Downloads are hosted with SourceForge.net. If you have a supported system, you can download the appropriate binary distribution.  If you have another system, download the source and read the README file for build directions.</p>
   <p>Please <a href="http://xu4.sourceforge.net/forum/">let us know</a> if you successfully port xu4 to a new platform!</p>
   <ul>
-    <!-- <li><a href="http://prdownloads.sourceforge.net/xu4/xu4-1.0beta1-win32.exe?download">xu4 0.9 for Windows</a> <span class="details">(xxxMb, Windows .EXE, doesn't include ultima4.zip, download below)</span></li> -->
-    <li><a href="http://prdownloads.sourceforge.net/xu4/xu4-1.0beta1-1.i386.rpm?download">xu4 0.9 for Linux</a> <span class="details">(1.9Mb, Fedora Core 3 RPM)</span></li>
-    <!-- <li><a href="http://prdownloads.sourceforge.net/xu4/xu4-1.0beta1.dmg.gz?download">xu4 0.9 for Mac OS X</a> <span class="details">(xxxMb, OSX gzipped disk image)</span></li> -->
+    <!-- <li><a href="http://prdownloads.sourceforge.net/xu4/xu4-1.0beta1-win32.exe?download">xu4 1.0beta1 for Windows</a> <span class="details">(xxxMb, Windows .EXE, doesn't include ultima4.zip, download below)</span></li> -->
+    <li><a href="http://prdownloads.sourceforge.net/xu4/xu4-1.0beta1-1.i386.rpm?download">xu4 1.0beta1 for Linux</a> <span class="details">(1.9Mb, Fedora Core 3 RPM)</span></li>
+    <!-- <li><a href="http://prdownloads.sourceforge.net/xu4/xu4-1.0beta1.dmg.gz?download">xu4 1.0beta1 for Mac OS X</a> <span class="details">(xxxMb, OSX gzipped disk image)</span></li> -->
     <li><a href="http://prdownloads.sourceforge.net/xu4/xu4-1.0beta1.tar.gz?download">xu4 1.0beta1 source code</a> <span class="details">(387Kb, gzipped tarfile)</span></li>
     <li><a href="http://sourceforge.net/project/showfiles.php?group_id=36225">Other formats and older releases</a></li>
   </ul>
