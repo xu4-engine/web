@@ -1,0 +1,44 @@
+Phorum Code and automatic URL linking.  As of Phorum 3.3.2, users can
+use Phorum Code to spice up their posts.  Phorum Code is much like the
+standard way many message board systems mark up posts.  Examples:
+
+    [url]http://phorum.org[/url]
+
+        Creates a url that is linked.
+
+    [url=http://phorum.org]phorum.org[/url]
+
+        Links the text 'phorum.org' to http://phorum.org.
+
+    [email]email@address.com[/email]
+
+        Creates a linked email address
+
+    [img]http://phorum.org/logo.gif[/img]
+
+        Creates an image tag that will show that image.
+
+    [b]Bold Text[/b]
+    [u]Underlined Text[/u]
+    [i]Italicized Text[/i]
+
+        Makes the text bold, underlined, or italicized.
+
+    [center]Centered Text[/center]
+
+        Centers text.
+
+    [quote]Does this quote text?[/quote]
+
+        This will indent the text inside the tags.
+
+
+    Tags can be combined:
+
+        [url=http://phorum.org][img]http://phorum.org/logo.gif[/img][/url]
+
+
+    Phorum will also automatically link urls that are inside <>.
+
+        <http://phorum.org/>
+

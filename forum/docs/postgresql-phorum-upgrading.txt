@@ -1,0 +1,23 @@
+Important notes for upgrading Phorum for Postgresql users
+- v0.1 (tomaz@phorum.org)
+
+Before Phorum 3.4.2 table definitions for bodies table lacked primary key (also unique index)
+which can cause MAJOR slowdown and intense overload (load would went into the sky!) with
+lots of concurrent users. This happens because Postgresql has to do sequence scan of bodies
+table to find matching bodies which can be slow with over 100 000 messages per forum. This
+should be ideally fixed in upgrade script, but because of possible duplicates sometimes
+creating unique index fails so it has to be created manually AFTER deleting duplicate records.
+
+You can try creating unique index first to see if you have this problem:
+(if your forum table name is forum1)
+
+CREATE UNIQUE INDEX forum1_bodiespri_key ON forum1_bodies(id);
+
+If it fails you will have to find duplicate IDs and delete them before trying to create index
+again.
+
+This has to be repeated for ALL forums.
+
+
+
+

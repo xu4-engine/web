@@ -1,0 +1,8 @@
+Phorum TODO
+--------------
+
+Improve Phorummail to handle MIME.
+
+Make improvements to the linked email in read.php to have a better subject
+and include a CC to the mailing list address if it is there.
+

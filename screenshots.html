@@ -1,0 +1,100 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "DTD/xhtml1-strict.dtd">
+<html lang="en">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <title>xu4 Screenshots</title>
+  <link rel="stylesheet" type="text/css" href="xu4.css" />
+  <link rel="top" href="http://xu4.sourceforge.net/" title="xu4" />
+</head>
+<body>
+<div class="title"><h3><span class="heading">xu4 Screenshots</span></h3></div>
+<div class="menu">
+  <span class="menuitem"><a accesskey="1" href="index.php">Home</a></span> |
+  <span class="menuitem"><a accesskey="2" href="http://sourceforge.net/projects/xu4">Sourceforge project page</a></span> |
+  <span class="selectedmenuitem">Screenshots</span> |
+  <span class="menuitem"><a accesskey="4" href="forum">Discussion Forum</a></span> |
+  <span class="menuitem"><a accesskey="5" href="download.php">Download</a></span> |
+  <span class="menuitem"><a accesskey="6" href="links.html">Links</a></span>
+</div>
+<div class="section">
+  <span class="heading">Game Screenshots</span><br /><br />
+  <table>
+    <tbody>
+      <tr>
+        <td align="right">Introduction sequence</td>
+        <td align="left"><a href="intro1.png"><img height="100" width="160" src="intro1.png" alt="[Screenshot 3]" /></a></td>
+        <td align="right">Talking with the Gypsy</td>
+        <td align="left"><a href="intro2.png"><img height="100" width="160" src="intro2.png" alt="[Screenshot 4]" /></a></td>
+      </tr>
+      <tr>
+        <td align="right">Outdoors with original graphics</td>
+        <td align="left"><a href="shot1.png"><img height="100" width="160" src="shot1.png" alt="[Screenshot 1]" /></a></td>
+        <td align="right">Outdoors with VGA upgrade graphics</td>
+        <td align="left"><a href="shot2.png"><img height="100" width="160" src="shot2.png" alt="[Screenshot 2]" /></a></td>
+      </tr>
+      <tr>
+        <td align="right">In the forest by Yew</td>
+        <td align="left"><a href="forest.png"><img height="100" width="160" src="forest.png" alt="[Forest Screenshot]" /></a></td>
+        <td align="right">By a Moongate on horseback</td>
+        <td align="left"><a href="moongate.png"><img height="100" width="160" src="moongate.png" alt="[Moongate Screenshot]" /></a></td>
+      </tr>
+      <tr>
+        <td align="right">In a dungeon</td>
+        <td align="left"><a href="dungeon.png"><img height="100" width="160" src="dungeon.png" alt="[Dungeon Screenshot]" /></a></td>
+        <td align="right">In the depths of the Abyss</td>
+        <td align="left"><a href="codex.png"><img height="100" width="160" src="codex.png" alt="[Abyss Screenshot]" /></a></td>
+      </tr>
+      <tr>
+        <td align="right">xu4 on a Linux desktop</td>
+        <td align="left"><a href="shot3.png"><img height="150" width="200" src="shot3.png" alt="[Linux Screenshot]" /></a></td>
+        <td align="right">xu4 on a MacOS X desktop</td>
+        <td align="left"><a href="U4-MacOSX.png"><img height="150" width="200" src="U4-MacOSX.png" alt="[MacOS X Screenshot]" /></a></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+<div class="section">
+  <span class="heading">Scaler Comparison</span><br /><br />
+  <p>Ultima 4 was originally released supporting a screen resolution of 320x200.  Because computers typically run at much higher resolutions now, xu4 will automatically scale all the graphics to a more readable size.  By default, it doubles the size of the original graphics, giving a 640x400 view, but it can use several strategies to make the scale graphics look better.  The idea and algorithms for these scalers come straight out of <a href="http://exult.sourceforge.net/">Exult</a>.  The following shows the available types of scaling, and their results, magnified by an additional two times to clearly show the differences.</p>
+  <table>
+    <tbody>
+      <tr>
+        <td align="right">Point Scaler</td>
+        <td align="left"><img height="128" width="192" src="scale_default.png" alt="[Point Scaler Screenshot]" /></td>
+        <td align="left">The point scaler simply doubles each pixel.  The result is sharp but blocky.</td>
+      </tr>
+      <tr>
+        <td align="right">2xBi Bilinear Scaler</td>
+        <td align="left"><img height="128" width="192" src="scale_2xBi.png" alt="[2xBi Scaler Screenshot]" /></td>
+        <td align="left">The 2xBi bilinear scaler makes the pixels blend into each other.  The result is less blocky but somewhat blurry.</td>
+      </tr>
+      <tr>
+        <td align="right">2xSaI Scaler</td>
+        <td align="left"><img height="128" width="192" src="scale_2xSaI.png" alt="[2xSaI Scaler Screenshot]" /></td>
+        <td align="left">The 2xSaI scaler is similar to the bilinear, but takes special care to handle angles and get rid of the stair-step effect.  The result a bit less blurry than the bilinear, and nice smooth diagonals; the castle turrets in particular look much better.</td>
+      </tr>
+      <tr>
+        <td align="right">Scale2x Scaler</td>
+        <td align="left"><img height="128" width="192" src="scale_AM.png" alt="[Scale2x Scaler Screenshot]" /></td>
+        <td align="left">The Scale2x (formerly called AdvanceMAME) scaler, like 2xSaI, tries to heuristically make angles look nice.  But unlike 2xSaI, it does it without interpolating colors; only the original image colors are used.  This results in a sharper image.</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+<div class="section">
+  <span class="heading">Other Ultima IV and xu4 Artwork</span><br /><br />
+  <p>Here is an xu4 generated map of the entire Ultima IV world in the VGA tileset (warning, large!): <a href="map.png">map.png</a> <span class="details">(690Kb)</span></p>
+</div>
+  
+<div class="footer" id="host">
+  Hosted at&nbsp;
+  <a href="http://sourceforge.net"><img src="http://sourceforge.net/sflogo.php?group_id=36225&type=5" width="210" height="62" alt="SourceForge Logo" /></a> 
+</div>
+
+<div class="footer" id="w3">
+  <a href="http://validator.w3.org/check/referer"><img src="http://www.w3.org/Icons/valid-xhtml10"
+    alt="Valid XHTML 1.0!" height="31" width="88" /></a>
+</div>
+
+</body>
+</html>
