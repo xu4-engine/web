@@ -3,7 +3,7 @@
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
   <title>xu4 Download</title>
-  <link rel="stylesheet" type="text/css" href="xu4.css" />
+  <link rel="stylesheet" type="text/css" href="css/xu4.css" />
   <link rel="top" href="http://xu4.sourceforge.net/" title="xu4" />
 </head>
 <body>
