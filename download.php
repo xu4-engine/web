@@ -37,8 +37,8 @@
 <div class="section">
   <span class="heading">xu4 Daily Snapshot Builds</span><br /><br />
   <ul>
-    <li><a href="xu4win32.exe">xu4 snapshot for Windows</a> <span class="details">(<? $statinfo = stat("xu4win32.exe"); echo date("M/d G:i T", $statinfo[9]); ?>)</span></li>
-    <li><a href="xu4-MacOSX.dmg.gz">xu4 snapshot for Mac OS X</a> <span class="details">(<? $statinfo = stat("xu4-MacOSX.dmg.gz"); echo date("M/d G:i T", $statinfo[9]); ?>)</span></li>
+    <li><a href="download/xu4win32.exe">xu4 snapshot for Windows</a> <span class="details">(<? $statinfo = stat("download/xu4win32.exe"); echo date("M/d G:i T", $statinfo[9]); ?>)</span></li>
+    <li><a href="download/xu4-MacOSX.dmg.gz">xu4 snapshot for Mac OS X</a> <span class="details">(<? $statinfo = stat("download/xu4-MacOSX.dmg.gz"); echo date("M/d G:i T", $statinfo[9]); ?>)</span></li>
   </ul>
 </div>
 <div class="section">
@@ -53,8 +53,8 @@
   <span class="heading">xu4 Developer Downloads</span><br />
   <p>Xu4 downloads for developers.</p>
   <ul>
-    <li><a href="http://xu4.sourceforge.net/xu4_dev_win32.zip">MinGW headers and libraries</a></li>
-    <li><a href="http://xu4.sourceforge.net/xu4_dev_win32_VC6.zip">MS Visual C++ headers and libraries</a></li>
+    <li><a href="download/xu4_dev_win32.zip">MinGW headers and libraries</a></li>
+    <li><a href="download/xu4_dev_win32_VC6.zip">MS Visual C++ headers and libraries</a></li>
   </ul>
 </div>
   
