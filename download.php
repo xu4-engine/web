@@ -15,17 +15,17 @@
   <span class="menuitem"><a accesskey="4" href="forum">Discussion Forum</a></span> |
   <span class="menuitem"><a accesskey="5" href="faq.html">FAQ</a></span> |
   <span class="selectedmenuitem">Download</span> |
-  <span class="menuitem"><a accesskey="6" href="links.html">Links</a></span>
+  <span class="menuitem"><a accesskey="7" href="links.html">Links</a></span>
 </div>
 <div class="section">
   <span class="heading">xu4 Releases</span><br />
   <p>Downloads are hosted with SourceForge.net. If you have a supported system, you can download the appropriate binary distribution.  If you have another system, download the source and read the README file for build directions.</p>
   <p>Please <a href="http://xu4.sourceforge.net/forum/">let us know</a> if you successfully port xu4 to a new platform!</p>
   <ul>
-    <li><a href="http://prdownloads.sourceforge.net/xu4/xu4-0.9-win32.exe?download">xu4 0.9 for Windows</a> <span class="details">(1.3Mb, Windows .EXE, doesn't include ultima4.zip, download below)</span></li>
-    <li><a href="http://prdownloads.sourceforge.net/xu4/xu4-0.9-1.i386.rpm?download">xu4 0.9 for Linux</a> <span class="details">(1.3Mb, Fedora Core 1 RPM)</span></li>
-    <li><a href="http://prdownloads.sourceforge.net/xu4/xu4-0.9.dmg.gz?download">xu4 0.9 for Mac OS X</a> <span class="details">(3.3Mb, OSX gzipped disk image)</span></li>
-    <li><a href="http://prdownloads.sourceforge.net/xu4/xu4-0.9.tar.gz?download">xu4 0.9 source code</a> <span class="details">(313Kb, gzipped tarfile)</span></li>
+    <!-- <li><a href="http://prdownloads.sourceforge.net/xu4/xu4-1.0beta1-win32.exe?download">xu4 0.9 for Windows</a> <span class="details">(xxxMb, Windows .EXE, doesn't include ultima4.zip, download below)</span></li> -->
+    <li><a href="http://prdownloads.sourceforge.net/xu4/xu4-1.0beta1-1.i386.rpm?download">xu4 0.9 for Linux</a> <span class="details">(1.9Mb, Fedora Core 3 RPM)</span></li>
+    <!-- <li><a href="http://prdownloads.sourceforge.net/xu4/xu4-1.0beta1.dmg.gz?download">xu4 0.9 for Mac OS X</a> <span class="details">(xxxMb, OSX gzipped disk image)</span></li> -->
+    <li><a href="http://prdownloads.sourceforge.net/xu4/xu4-1.0beta1.tar.gz?download">xu4 1.0beta1 source code</a> <span class="details">(387Kb, gzipped tarfile)</span></li>
     <li><a href="http://sourceforge.net/project/showfiles.php?group_id=36225">Other formats and older releases</a></li>
   </ul>
   <p>Offsite ports:</p>
