@@ -8,9 +8,9 @@
   <link rel="top" href="http://xu4.sourceforge.net/" title="xu4" />
 </head>
 <body>
-<?  $FILE = fopen("../agentlog/agentlog.txt", "a"); 
+<?  $FILE = fopen("../agentlog/agentlog.txt", "a");
     if ($FILE) {
-        if ($HTTP_USER_AGENT != "") { 
+        if ($HTTP_USER_AGENT != "") {
             fputs($FILE, $HTTP_USER_AGENT);
         } else {
             fputs($FILE, "no user agent");
@@ -18,7 +18,7 @@
         if ($HTTP_REFERER != "") { fputs($FILE, " (referer = ".$HTTP_REFERER.")"); }
         if ($REMOTE_ADDR != "") { fputs($FILE, " (ip = ".$REMOTE_ADDR.")"); }
         fputs($FILE, "\n");
-        fclose($FILE); 
+        fclose($FILE);
     }
 ?>
 <div class="title"><h3><span class="heading">xu4 - Ultima IV Recreated</span></h3></div>
@@ -37,7 +37,7 @@
 <div class="section" id="info">
 
   <p>XU4 is a remake of the computer game Ultima IV.  The goal is to make it easy and convenient to play this classic on modern operating systems.  XU4 is primarily inspired by the much more ambitious project <a href="http://exult.sourceforge.net">Exult</a>.  XU4 is a cross-platform application thanks to <acronym title="Simple DirectMedia Layer">SDL</acronym>; it's available for Windows, MacOS X, Linux and more.</p>
-  <p>This project is currently under development; alpha releases are available, but the game is not yet playable from beginning to end.  The very latest source code can always be accessed from <a href="http://cvs.sourceforge.net/viewcvs.py/xu4">CVS</a>.  Please post a message in our discussion forum if you are interested in helping.</p>
+  <p>This project is currently under development; <s style="color:red">alpha releases are available, but the game is not yet playable from beginning to end.</s> <strong>the game is currently in early beta-testing, and is now playable from beginning to end.</strong> The very latest source code can always be accessed from <a href="http://cvs.sourceforge.net/viewcvs.py/xu4">CVS</a>.  Please post a message in our discussion forum if you are interested in helping.</p>
   <p>A secondary goal of this project is to clearly document the formats of the data files from the original Ultima IV.  This work in progress is available here:  <a href="http://cvs.sourceforge.net/viewcvs.py/*checkout*/xu4/u4/doc/FileFormats.txt?rev=HEAD">FileFormats.txt</a></p>
   <p>Please see the <a href="http://cvs.sourceforge.net/viewcvs.py/*checkout*/xu4/u4/README?rev=HEAD">README</a> file for information on compiling, installing and running xu4.</p>
   <p>The original Ultima IV is freeware.  <a href="download.php">Download it here!</a></p>
