@@ -82,7 +82,7 @@ BODY, TD, TR, P, UL, OL, LI, INPUT, SELECT, DL, DD, DT, FONT
 
 .heading 
 {
-    font-family: sans-serif;
+    font-family: 'trebuchet ms','luxi sans',sans-serif;
     color: #ff6600;
 }
 
@@ -95,7 +95,7 @@ BODY, TD, TR, P, UL, OL, LI, INPUT, SELECT, DL, DD, DT, FONT
     margin-right: 10%;
     border: solid 1px;
     background: #e0ebf5;
-    font-family: sans-serif;
+    font-family: 'trebuchet ms','luxi sans',sans-serif;
     font-size: small;
     text-align: center;
 }
