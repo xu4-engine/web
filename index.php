@@ -37,7 +37,7 @@
 <div class="section" id="info">
 
   <p>XU4 is a remake of the computer game Ultima IV.  The goal is to make it easy and convenient to play this classic on modern operating systems.  XU4 is primarily inspired by the much more ambitious project <a href="http://exult.sourceforge.net">Exult</a>.  XU4 is a cross-platform application thanks to <acronym title="Simple DirectMedia Layer">SDL</acronym>; it's available for Windows, MacOS X, Linux and more.</p>
-  <p>This project is currently under development; <s style="color:red">alpha releases are available, but the game is not yet playable from beginning to end.</s> <strong>the game is currently in early beta-testing, and is now playable from beginning to end.</strong> The very latest source code can always be accessed from <a href="http://cvs.sourceforge.net/viewcvs.py/xu4">CVS</a>.  Please post a message in our discussion forum if you are interested in helping.</p>
+  <p>This project is currently under development and beta releases are available.  The game is fully playable from beginning to end.  The very latest source code can always be accessed from <a href="http://cvs.sourceforge.net/viewcvs.py/xu4">CVS</a>.  Please post a message in our discussion forum if you are interested in helping.</p>
   <p>A secondary goal of this project is to clearly document the formats of the data files from the original Ultima IV.  This work in progress is available here:  <a href="http://cvs.sourceforge.net/viewcvs.py/*checkout*/xu4/u4/doc/FileFormats.txt?rev=HEAD">FileFormats.txt</a></p>
   <p>Please see the <a href="http://cvs.sourceforge.net/viewcvs.py/*checkout*/xu4/u4/README?rev=HEAD">README</a> file for information on compiling, installing and running xu4.</p>
   <p>The original Ultima IV is freeware.  <a href="download.php">Download it here!</a></p>
@@ -46,6 +46,7 @@
 <div class="section" id="news">
   <span class="heading">News:</span>
   <ul>
+    <li><span class="newsitem"><span class="date">06/Jan/2004</span> - A second beta is now available, which fixes a few bugs from the first.  Get it <a href="download.php">here</a>.</span></li>
     <li><span class="newsitem"><span class="date">30/Nov/2004</span> - The first beta of <a href="download.php">xu4 1.0</a> of is now available.</span></li>
     <li><span class="newsitem"><span class="date">20/Jul/2004</span> - A <a href="faq.html">FAQ section</a> is now available on the web site. <a href="forum">Let us know</a> if there are any other questions that should listed.</span></li>
     <li><span class="newsitem"><span class="date">24/Feb/2004</span> - Version <a href="download.php">0.9</a> of xu4 is now out.  This version is more complete and stable than ever.  Ultima IV is now fully playable from beginning to end.</a></span></li>
