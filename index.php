@@ -31,7 +31,7 @@
   <span class="menuitem"><a accesskey="6" href="links.html">Links</a></span>
 </div>
 <div class="divider">
-  <img src="small-castle.png" width="96" height="32" alt="[picture of Ultima 4 castle]"/>
+  <img src="images/small-castle.png" width="96" height="32" alt="[picture of Ultima 4 castle]"/>
 </div>
 <div class="section" id="info">
 
