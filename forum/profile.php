@@ -462,7 +462,7 @@ while ($file) {
                 if($rec['email'] && !$rec["hide_email"]){ ?>
                 <tr>
                     <td <?php echo bgcolor($table_body_color_1); ?> nowrap><font color="<?php echo $table_body_font_color_1; ?>">&nbsp;<?php echo $lEmail;?>:&nbsp;&nbsp;</font></td>
-                    <td <?php echo bgcolor($table_body_color_1); ?>><font color="<?php echo $table_body_font_color_1; ?>"><a href="<?php echo htmlencode("mailto:".$rec['email']); ?>"><?php echo htmlencode($rec['email']); ?></a></font></td>
+                    <td <?php echo bgcolor($table_body_color_1); ?>><font color="<?php echo $table_body_font_color_1; ?>"><a href="<?php echo htmlencode("mailto:".$rec['email']); ?>"><?php echo htmlencode(preg_replace('/@/', ' AT ', preg_replace('/\.(\w\w\w?)$/', '_NOSPAM.$1', $rec['email']))); ?></a></font></td>
                 </tr>
                 <?php }
                 if($rec['webpage']){ ?>
