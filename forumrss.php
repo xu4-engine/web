@@ -49,7 +49,7 @@
   $rec=$q->getrow();
   while(is_array($rec)){
     echo "<item>\n";
-    $title = strip_tags($rec[subject]);
+    $title = strip_tags(preg_replace("/&/", "&amp;", $rec[subject]));
     echo "<title>$title</title>\n";
     echo "<link>$forum_url/$read_page.$ext?f=$num&amp;i=$rec[id]&amp;t=$rec[thread]</link>\n";
     echo "</item>\n";
