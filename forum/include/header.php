@@ -20,7 +20,7 @@
   <span class="menuitem"><a accesskey="6" href="/links.html">Links</a></span>
 </div>
 <div style="margin-left: 10%; margin-right: 10%;">
-<a href="http://xu4.sourceforge.net/forumrss.php?num=1&mode=messages"><img src="/icon_xml2.gif" style="border-width: 0px"/></a>
+<a href="http://xu4.sourceforge.net/forumrss.php?num=1&mode=messages"><img src="images/icon_xml2.gif" style="border-width: 0px"/></a>
 </div>
 <div style="margin-left: 10%; margin-right: 10%;">
 
