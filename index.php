@@ -8,7 +8,7 @@
   <link rel="top" href="http://xu4.sourceforge.net/" title="xu4" />
 </head>
 <body>
-<?  $FILE = fopen("agentlog/agentlog.txt", "a"); 
+<?  $FILE = fopen("../agentlog/agentlog.txt", "a"); 
     if ($FILE) {
         if ($HTTP_USER_AGENT != "") { 
             fputs($FILE, $HTTP_USER_AGENT);
