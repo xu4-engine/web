@@ -8,17 +8,19 @@
   <link rel="top" href="http://xu4.sourceforge.net/" title="xu4" />
 </head>
 <body>
-<?  $FILE = fopen("../agentlog/agentlog.txt", "a");
-    if ($FILE) {
-        if ($HTTP_USER_AGENT != "") {
-            fputs($FILE, $HTTP_USER_AGENT);
-        } else {
-            fputs($FILE, "no user agent");
-	}
-        if ($HTTP_REFERER != "") { fputs($FILE, " (referer = ".$HTTP_REFERER.")"); }
-        if ($REMOTE_ADDR != "") { fputs($FILE, " (ip = ".$REMOTE_ADDR.")"); }
-        fputs($FILE, "\n");
-        fclose($FILE);
+<?  if (is_writable("../agentlog/agentlog.txt")) {
+      $FILE = fopen("../agentlog/agentlog.txt", "a");
+      if ($FILE) {
+          if ($HTTP_USER_AGENT != "") {
+              fputs($FILE, $HTTP_USER_AGENT);
+          } else {
+              fputs($FILE, "no user agent");
+          }
+          if ($HTTP_REFERER != "") { fputs($FILE, " (referer = ".$HTTP_REFERER.")"); }
+          if ($REMOTE_ADDR != "") { fputs($FILE, " (ip = ".$REMOTE_ADDR.")"); }
+          fputs($FILE, "\n");
+          fclose($FILE);
+      }
     }
 ?>
 <div class="title"><h3><span class="heading">xu4 - Ultima IV Recreated</span></h3></div>
