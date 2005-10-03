@@ -48,6 +48,7 @@
 <div class="section" id="news">
   <span class="heading">News:</span>
   <ul>
+    <li><span class="newsitem"><span class="date">02/Oct/2005</span> - The long-awaited third beta is out: see <a href="forum">the forum</a> for the details.  Download it <a href="download.php">here</a>.</span></li>
     <li><span class="newsitem"><span class="date">06/Jan/2005</span> - A second beta is now available, which fixes a few bugs from the first.  Get it <a href="download.php">here</a>.</span></li>
     <li><span class="newsitem"><span class="date">30/Nov/2004</span> - The first beta of <a href="download.php">xu4 1.0</a> of is now available.</span></li>
     <li><span class="newsitem"><span class="date">20/Jul/2004</span> - A <a href="faq.html">FAQ section</a> is now available on the web site. <a href="forum">Let us know</a> if there are any other questions that should listed.</span></li>
