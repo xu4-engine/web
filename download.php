@@ -22,10 +22,10 @@
   <p>Downloads are hosted with SourceForge.net. If you have a supported system, you can download the appropriate binary distribution.  If you have another system, download the source and read the README file for build directions.</p>
   <p>Please <a href="http://xu4.sourceforge.net/forum/">let us know</a> if you successfully port xu4 to a new platform!</p>
   <ul>
-    <li><a href="http://prdownloads.sourceforge.net/xu4/xu4-1.0beta2-win32.exe?download">xu4 1.0beta2 for Windows</a> <span class="details">(1.5Mb, Windows .EXE, doesn't include ultima4.zip, download below)</span></li>
-    <li><a href="http://prdownloads.sourceforge.net/xu4/xu4-1.0beta2-1.i386.rpm?download">xu4 1.0beta2 for Linux</a> <span class="details">(1.9Mb, Fedora Core 3 RPM)</span></li>
-    <li><a href="http://prdownloads.sourceforge.net/xu4/xu4-1.0beta2.dmg.gz?download">xu4 1.0beta2 for Mac OS X</a> <span class="details">(2.2Mb, OSX gzipped disk image)</span></li>
-    <li><a href="http://prdownloads.sourceforge.net/xu4/xu4-1.0beta2.tar.gz?download">xu4 1.0beta2 source code</a> <span class="details">(387Kb, gzipped tarfile)</span></li>
+    <!-- <li><a href="http://prdownloads.sourceforge.net/xu4/xu4-1.0beta3-win32.exe?download">xu4 1.0beta3 for Windows</a> <span class="details">(?? Mb, Windows .EXE, doesn't include ultima4.zip, download below)</span></li> -->
+    <li><a href="http://prdownloads.sourceforge.net/xu4/xu4-1.0beta3-1.i386.rpm?download">xu4 1.0beta3 for Linux</a> <span class="details">(2.4Mb, Fedora Core 4 RPM)</span></li>
+    <!-- <li><a href="http://prdownloads.sourceforge.net/xu4/xu4-1.0beta3.dmg.gz?download">xu4 1.0beta3 for Mac OS X</a> <span class="details">(?? Mb, OSX gzipped disk image)</span></li> -->
+    <li><a href="http://prdownloads.sourceforge.net/xu4/xu4-1.0beta3.tar.gz?download">xu4 1.0beta3 source code</a> <span class="details">(409Kb, gzipped tarfile)</span></li>
     <li><a href="http://sourceforge.net/project/showfiles.php?group_id=36225">Other formats and older releases</a></li>
   </ul>
   <p>Offsite ports:</p>
