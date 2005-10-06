@@ -24,7 +24,7 @@
   <ul>
     <li><a href="http://prdownloads.sourceforge.net/xu4/xu4-1.0beta3-win32.exe?download">xu4 1.0beta3 for Windows</a> <span class="details">(1.1Mb, Windows .EXE, doesn't include ultima4.zip, download below)</span></li>
     <li><a href="http://prdownloads.sourceforge.net/xu4/xu4-1.0beta3-1.i386.rpm?download">xu4 1.0beta3 for Linux</a> <span class="details">(2.4Mb, Fedora Core 4 RPM)</span></li>
-    <!-- <li><a href="http://prdownloads.sourceforge.net/xu4/xu4-1.0beta3.dmg.gz?download">xu4 1.0beta3 for Mac OS X</a> <span class="details">(?? Mb, OSX gzipped disk image)</span></li> -->
+    <li><a href="http://prdownloads.sourceforge.net/xu4/xu4-1.0beta3.dmg?download">xu4 1.0beta3 for Mac OS X</a> <span class="details">(3 Mb, OSX disk image)</span></li>
     <li><a href="http://prdownloads.sourceforge.net/xu4/xu4-1.0beta3.tar.gz?download">xu4 1.0beta3 source code</a> <span class="details">(409Kb, gzipped tarfile)</span></li>
     <li><a href="http://sourceforge.net/project/showfiles.php?group_id=36225">Other formats and older releases</a></li>
   </ul>
