@@ -20,15 +20,26 @@
      $max=10;   // number of messages to show.
   }
 
+  if( !$mode ) {
+     $mode="messages";
+  }
+
+  if( !$approved ) {
+    $approved = "approved = 'Y'";
+  }
+  else {
+    $approved = "1";
+  }
+
   // There are a few SQL statements to choose from here.
   // $mode = set to message or [threads]
 
   if ( $mode == "messages") {
      // newest $max messages
-     $SQL="select id, thread, subject from $ForumTableName order by thread desc limit $max";
+     $SQL="select id, thread, subject from $ForumTableName where $approved order by datestamp desc limit $max";
   } else {
      // newest $max threads
-     $SQL="select id, thread, subject from $ForumTableName where thread=id order by thread desc limit $max";
+     $SQL="select id, thread, subject from $ForumTableName where $approved and thread=id order by thread desc limit $max";
   }
  header('Content-type: text/xml');
  echo "<?xml version=\"1.0\"?>\n";
