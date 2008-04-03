@@ -39,7 +39,7 @@
   <span class="heading">xu4 Daily Snapshot Builds</span><br /><br />
   <ul>
     <li><a href="download/xu4win32.exe">xu4 snapshot for Windows</a> <span class="details">(<? $statinfo = stat("download/xu4win32.exe"); echo date("Y-m-d G:i T", $statinfo[9]); ?>)</span></li>
-    <li><a href="download/xu4-MacOSX.dmg">xu4 snapshot for Mac OS X</a> <span class="details">(<? $statinfo = stat("download/xu4-MacOSX.dmg"); echo date("Y-m-d G:i T", $statinfo[9]); ?>, Mac OS X version 10.3.9 or later required)</span></li>
+    <li><a href="download/xu4-MacOSX.dmg">xu4 snapshot for Mac OS X</a> <span class="details">(<? $statinfo = stat("download/xu4-MacOSX.dmg"); echo date("Y-m-d G:i T", $statinfo[9]); ?>, Mac OS X version 10.4.11 or later required)</span></li>
   </ul>
 </div>
 <div class="section">
