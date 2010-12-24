@@ -28,10 +28,11 @@
   <span class="selectedmenuitem">Home</span> |
   <span class="menuitem"><a accesskey="2" href="http://sourceforge.net/projects/xu4">Sourceforge project page</a></span> |
   <span class="menuitem"><a accesskey="3" href="screenshots.html">Screenshots</a></span> |
-  <span class="menuitem"><a accesskey="4" href="forum">Discussion Forum</a></span> |
-  <span class="menuitem"><a accesskey="5" href="faq.html">FAQ</a></span> |
-  <span class="menuitem"><a accesskey="6" href="download.php">Download</a></span> |
-  <span class="menuitem"><a accesskey="7" href="links.html">Links</a></span>
+  <span class="menuitem"><a accesskey="4" href="http://sourceforge.net/apps/phpbb/xu4/">New Bulletin Board</a></span> |
+  <span class="menuitem"><a accesskey="5" href="forum">Old Discussion Forum</a></span> |
+  <span class="menuitem"><a accesskey="6" href="faq.html">FAQ</a></span> |
+  <span class="menuitem"><a accesskey="7" href="download.php">Download</a></span> |
+  <span class="menuitem"><a accesskey="8" href="links.html">Links</a></span>
 </div>
 <div class="divider">
   <img src="images/small-castle.png" width="96" height="32" alt="[picture of Ultima 4 castle]"/>
@@ -48,6 +49,7 @@
 <div class="section" id="news">
   <span class="heading">News:</span>
   <ul>
+    <li><span class="newsitem"><span class="date">23/Dec/2010</span> - A <a href="http://sourceforge.net/apps/phpbb/xu4/">new bulletin board / forum</a> has been created for xu4. We hope the community comes back (and the spammers do not).</span></li>
     <li><span class="newsitem"><span class="date">02/Oct/2005</span> - The long-awaited third beta is out: see <a href="forum">the forum</a> for the details.  Download it <a href="download.php">here</a>.</span></li>
     <li><span class="newsitem"><span class="date">06/Jan/2005</span> - A second beta is now available, which fixes a few bugs from the first.  Get it <a href="download.php">here</a>.</span></li>
     <li><span class="newsitem"><span class="date">30/Nov/2004</span> - The first beta of <a href="download.php">xu4 1.0</a> of is now available.</span></li>
