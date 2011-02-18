@@ -28,8 +28,7 @@
   <span class="selectedmenuitem">Home</span> |
   <span class="menuitem"><a accesskey="2" href="http://sourceforge.net/projects/xu4">Sourceforge project page</a></span> |
   <span class="menuitem"><a accesskey="3" href="screenshots.html">Screenshots</a></span> |
-  <span class="menuitem"><a accesskey="4" href="http://sourceforge.net/apps/phpbb/xu4/">New Bulletin Board</a></span> |
-  <span class="menuitem"><a accesskey="5" href="forum">Old Discussion Forum</a></span> |
+  <span class="menuitem"><a accesskey="4" href="http://sourceforge.net/apps/phpbb/xu4/">Discussion Forum</a></span> |
   <span class="menuitem"><a accesskey="6" href="faq.html">FAQ</a></span> |
   <span class="menuitem"><a accesskey="7" href="download.php">Download</a></span> |
   <span class="menuitem"><a accesskey="8" href="links.html">Links</a></span>

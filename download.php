@@ -18,28 +18,11 @@
   <span class="menuitem"><a accesskey="7" href="links.html">Links</a></span>
 </div>
 <div class="section">
-  <span class="heading">xu4 Releases</span><br />
-  <p>Downloads are hosted with SourceForge.net. If you have a supported system, you can download the appropriate binary distribution.  If you have another system, download the source and read the README file for build directions.</p>
-  <p>Please <a href="http://xu4.sourceforge.net/forum/">let us know</a> if you successfully port xu4 to a new platform!</p>
-  <ul>
-    <li><a href="http://prdownloads.sourceforge.net/xu4/xu4-1.0beta3-win32.exe?download">xu4 1.0beta3 for Windows</a> <span class="details">(1.1Mb, Windows .EXE, doesn't include ultima4.zip, download below)</span></li>
-    <li><a href="http://prdownloads.sourceforge.net/xu4/xu4-1.0beta3-1.i386.rpm?download">xu4 1.0beta3 for Linux</a> <span class="details">(2.4Mb, Fedora Core 4 RPM)</span></li>
-    <li><a href="http://prdownloads.sourceforge.net/xu4/xu4-1.0beta3.dmg?download">xu4 1.0beta3 for Mac OS X</a> <span class="details">(3 Mb, OSX disk image)</span></li>
-    <li><a href="http://prdownloads.sourceforge.net/xu4/xu4-1.0beta3.tar.gz?download">xu4 1.0beta3 source code</a> <span class="details">(409Kb, gzipped tarfile)</span></li>
-    <li><a href="http://sourceforge.net/project/showfiles.php?group_id=36225">Other formats and older releases</a></li>
-  </ul>
-  <p>Offsite ports:</p>
-  <ul>
-    <li><a href="http://inter.zon.free.fr/zaurus_index.html#xu4">xu4 for the Sharp Zaurus Handheld</a></li>
-    <li><a href="http://www.beemulated.net/engine/origin.phtml">xu4 for BeOS</a></li>
-    <li><a href="http://www.imrtech.mirrorz.com/">xu4 for the Sega Dreamcast console</a></li>
-  </ul>
-</div>
-<div class="section">
-  <span class="heading">xu4 Daily Snapshot Builds</span><br /><br />
-  <ul>
+  <span class="heading">xu4 Daily Snapshot Builds</span><br />
+   <p>These snapshots are generated using the latest source code updates.  A number of bugs that were present in the older Beta3 build have been fixed in these snapshot builds.</p>
+   <ul>
     <li><a href="download/xu4win32.exe">xu4 snapshot for Windows</a> <span class="details">(<? $statinfo = stat("download/xu4win32.exe"); echo date("Y-m-d G:i T", $statinfo[9]); ?>)</span></li>
-    <li><a href="download/xu4-MacOSX.dmg">xu4 snapshot for Mac OS X</a> <span class="details">(<? $statinfo = stat("download/xu4-MacOSX.dmg"); echo date("Y-m-d G:i T", $statinfo[9]); ?>, Mac OS X version 10.4.11 or later required)</span></li>
+    <li><a href="download/xu4-MacOSX.dmg">xu4 snapshot for Mac OS X</a> <span class="details">(<? $statinfo = stat("download/xu4-MacOSX.dmg"); echo date("Y-m-d G:i T", $statinfo[9]); ?>, Mac OS X version 10.3.9 or later required)</span></li>
   </ul>
 </div>
 <div class="section">
@@ -48,6 +31,25 @@
   <ul>
     <li><a href="http://prdownloads.sourceforge.net/xu4/ultima4-1.01.zip?download">Ultima IV for DOS</a></li>
     <li><a href="http://prdownloads.sourceforge.net/xu4/u4upgrad.zip?download">The Ultima IV Graphics upgrade</a> (<a href="http://www.moongates.com/u4/upgrade/Upgrade.htm">homepage</a>)</li>
+  </ul>
+</div>
+<div class="section">
+  <span class="heading">xu4 Releases</span><br />
+  <p><i>The beta download is quite a bit older than the latest snapshot, and still contains a number of bugs that have since been fixed. <b>We suggest you download one of the Daily Snapshot Builds above.</b></i></p>
+  <p>Downloads are hosted with SourceForge.net. If you have a supported system, you can download the appropriate binary distribution.  If you have another system, download the source and read the README file for build directions.</p>
+  <p>Please <a href="http://xu4.sourceforge.net/forum/">let us know</a> if you successfully port xu4 to a new platform!</p>
+  <ul>
+    <li><a href="http://prdownloads.sourceforge.net/xu4/xu4-1.0beta3-win32.exe?download">xu4 1.0beta3 for Windows</a> <span class="details">(2005-10-03 02:57)</span> <span class="details">(1.1Mb, Windows .EXE, doesn't include ultima4.zip, download below)</span></li>
+    <li><a href="http://prdownloads.sourceforge.net/xu4/xu4-1.0beta3-1.i386.rpm?download">xu4 1.0beta3 for Linux</a> <span class="details">(2005-10-03 02:57)</span> <span class="details">(2.4Mb, Fedora Core 4 RPM)</span></li>
+    <li><a href="http://prdownloads.sourceforge.net/xu4/xu4-1.0beta3.dmg?download">xu4 1.0beta3 for Mac OS X</a> <span class="details">(2005-10-03 02:57)</span> <span class="details">(3 Mb, OSX disk image)</span></li>
+    <li><a href="http://prdownloads.sourceforge.net/xu4/xu4-1.0beta3.tar.gz?download">xu4 1.0beta3 source code</a> <span class="details">(2005-10-03 02:57)</span> <span class="details">(409Kb, gzipped tarfile)</span></li>
+    <li><a href="http://sourceforge.net/project/showfiles.php?group_id=36225">Other formats and older releases</a></li>
+  </ul>
+  <p>Offsite ports:</p>
+  <ul>
+    <li><a href="http://inter.zon.free.fr/zaurus_index.html#xu4">xu4 for the Sharp Zaurus Handheld</a></li>
+    <li><a href="http://www.beemulated.net/engine/origin.phtml">xu4 for BeOS</a></li>
+    <li><a href="http://www.imrtech.mirrorz.com/">xu4 for the Sega Dreamcast console</a></li>
   </ul>
 </div>
 <div class="section">
