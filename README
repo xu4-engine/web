@@ -1,0 +1,17 @@
+Quick and dirty guide to our Web-SVN
+====================================
+
+- checkout our repository in SVN called "trunk/web".
+
+- change/add stuff there 
+
+- commit changes to SVN
+
+-create interactive shell session (see http://sourceforge.net/apps/trac/sourceforge/wiki/Shell%20service):
+ ssh -t USER,xu4@shell.sourceforge.net create
+
+- change dir to our webspace (cd /home/project-web/xu4/web)
+
+- execute "./update.sh" (updates /home/project-web/xu4/web with SVN version and gives the right permissions to everyone)
+
+Please make use of this and do not edit the webspace directly.
