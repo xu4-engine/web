@@ -19,10 +19,11 @@
 </div>
 <div class="section">
   <span class="heading">xu4 Daily Snapshot Builds</span><br />
-   <p>These snapshots are generated using the latest source code updates.  A number of bugs that were present in the older Beta3 build have been fixed in these snapshot builds.</p>
+   <p>These snapshots are generated using the latest source code updates.  A number of bugs that were present in the older Beta3 build have been fixed in these snapshot builds.<br/>
+	You will need Ultima IV for DOS, it is <strong>not</strong> included with the snapshots.</p>
    <ul>
     <li><a href="download/xu4win32.exe">xu4 snapshot for Windows</a> <span class="details">(<? $statinfo = stat("download/xu4win32.exe"); echo date("Y-m-d G:i T", $statinfo[9]); ?>)</span></li>
-    <li><a href="download/xu4-MacOSX.dmg">xu4 snapshot for Mac OS X</a> <span class="details">(<? $statinfo = stat("download/xu4-MacOSX.dmg"); echo date("Y-m-d G:i T", $statinfo[9]); ?>, Mac OS X version 10.3.9 or later required)</span></li>
+    <li><a href="download/xu4-MacOSX.dmg">xu4 snapshot for Mac OS X</a> <span class="details">(<? $statinfo = stat("download/xu4-MacOSX.dmg"); echo date("Y-m-d G:i T", $statinfo[9]); ?>, Mac OS X version 10.4 or later required)</span></li>
   </ul>
 </div>
 <div class="section">
@@ -37,7 +38,7 @@
   <span class="heading">xu4 Releases</span><br />
   <p><i>The beta download is quite a bit older than the latest snapshot, and still contains a number of bugs that have since been fixed. <b>We suggest you download one of the Daily Snapshot Builds above.</b></i></p>
   <p>Downloads are hosted with SourceForge.net. If you have a supported system, you can download the appropriate binary distribution.  If you have another system, download the source and read the README file for build directions.</p>
-  <p>Please <a href="http://xu4.sourceforge.net/forum/">let us know</a> if you successfully port xu4 to a new platform!</p>
+  <p>Please <a href="http://sourceforge.net/apps/phpbb/xu4/">let us know</a> if you successfully port xu4 to a new platform!</p>
   <ul>
     <li><a href="http://prdownloads.sourceforge.net/xu4/xu4-1.0beta3-win32.exe?download">xu4 1.0beta3 for Windows</a> <span class="details">(2005-10-03 02:57)</span> <span class="details">(1.1Mb, Windows .EXE, doesn't include ultima4.zip, download below)</span></li>
     <li><a href="http://prdownloads.sourceforge.net/xu4/xu4-1.0beta3-1.i386.rpm?download">xu4 1.0beta3 for Linux</a> <span class="details">(2005-10-03 02:57)</span> <span class="details">(2.4Mb, Fedora Core 4 RPM)</span></li>
