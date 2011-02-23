@@ -39,9 +39,9 @@
 <div class="section" id="info">
 
   <p>XU4 is a remake of the computer game Ultima IV.  The goal is to make it easy and convenient to play this classic on modern operating systems.  XU4 is primarily inspired by the much more ambitious project <a href="http://exult.sourceforge.net">Exult</a>.  XU4 is a cross-platform application thanks to <acronym title="Simple DirectMedia Layer">SDL</acronym>; it's available for Windows, MacOS X, Linux and more.</p>
-  <p>This project is currently under development and beta releases are available.  The game is fully playable from beginning to end.  The very latest source code can always be accessed from <a href="http://cvs.sourceforge.net/viewcvs.py/xu4">CVS</a>.  Please post a message in our discussion forum if you are interested in helping.</p>
-  <p>A secondary goal of this project is to clearly document the formats of the data files from the original Ultima IV.  This work in progress is available here:  <a href="http://cvs.sourceforge.net/viewcvs.py/*checkout*/xu4/u4/doc/FileFormats.txt?rev=HEAD">FileFormats.txt</a></p>
-  <p>Please see the <a href="http://cvs.sourceforge.net/viewcvs.py/*checkout*/xu4/u4/README?rev=HEAD">README</a> file for information on compiling, installing and running xu4.</p>
+  <p>This project is currently under development and beta releases are available.  The game is fully playable from beginning to end.  The very latest source code can always be accessed from <a href="http://sourceforge.net/scm/?type=svn&group_id=36225">SVN</a>.  Please post a message in our discussion forum if you are interested in helping.</p>
+  <p>A secondary goal of this project is to clearly document the formats of the data files from the original Ultima IV.  This work in progress is available here:  <a href="http://xu4.svn.sourceforge.net/viewvc/xu4/trunk/u4/doc/FileFormats.txt">FileFormats.txt</a></p>
+  <p>Please see the <a href="http://xu4.svn.sourceforge.net/viewvc/xu4/trunk/u4/README">README</a> file for information on compiling, installing and running xu4.</p>
   <p>The original Ultima IV is freeware.  <a href="download.php">Download it here!</a></p>
 </div>
 <p />
