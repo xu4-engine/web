@@ -28,9 +28,20 @@
 </div>
 <div class="section">
   <span class="heading">Ultima IV for DOS</span><br />
-  <p><s>Ultima IV for DOS is <strong>required</strong> to play xu4</s>.  Ultima IV for DOS is now included in the Linux and Mac OS X binary downloads.  You still need it if you use Windows or compile from source.  Origin generously allows it to be freely distributed; it is mirrored here.  The graphics upgrade is optional.</p>
+  <p><s>Ultima IV for DOS is <strong>required</strong> to play xu4</s>.  
+  Ultima IV for DOS is not included in any of the binary or source downloads.  
+  The Ultima IV Graphics upgrade upgrade is optional, and can be downloaded below.
+  For best results, unzip the following into a ./ultima4 directory.
+  Depending on your system, there are a variety of appropriate locations,
+  the simplest being wherever the xu4 executable resides.
+  </p>
   <ul>
-    <li><a href="http://prdownloads.sourceforge.net/xu4/ultima4-1.01.zip?download">Ultima IV for DOS</a></li>
+  	<li>The following Ultima Dragon fan sites are able to host Ultima IV for DOS:
+  	<ul> 
+  		<li><a href="http://cheekygamers.com/woo/games/ultima.html">Worlds of Origin</a> - maintained by Lady Whisper Dragon (<a href="http://cheekygamers.com/woo/">homepage</a>)</li>
+    	<li><a href="http://www.thatfleminggent.com/ultima/u4download.html">Contrapuntal's Conservatory</a> - maintained by Contrapuntal Dragon (<a href="http://www.thatfleminggent.com/ultima/">homepage</a>)</li>
+    </ul>
+    </li>
     <li><a href="http://prdownloads.sourceforge.net/xu4/u4upgrad.zip?download">The Ultima IV Graphics upgrade</a> (<a href="http://www.moongates.com/u4/upgrade/Upgrade.htm">homepage</a>)</li>
   </ul>
 </div>
