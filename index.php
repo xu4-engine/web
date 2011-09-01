@@ -48,6 +48,7 @@
 <div class="section" id="news">
   <span class="heading">News:</span>
   <ul>
+	<li><span class="newsitem"><span class="date">01/Sep/2011</span> - Since June 2011 EA hosts the official Ultima 4 download on <a href="http://www.ultimaforever.com">UltimaForever</a> and as of today <a href="http://www.gog.com/en/gamecard/ultima_4">Good Old Games</a> offers it for free as well.</span></li>
     <li><span class="newsitem"><span class="date">23/Dec/2010</span> - A <a href="http://sourceforge.net/apps/phpbb/xu4/">new bulletin board / forum</a> has been created for xu4. We hope the community comes back (and the spammers do not).</span></li>
     <li><span class="newsitem"><span class="date">02/Oct/2005</span> - The long-awaited third beta is out: see <a href="forum">the forum</a> for the details.  Download it <a href="download.php">here</a>.</span></li>
     <li><span class="newsitem"><span class="date">06/Jan/2005</span> - A second beta is now available, which fixes a few bugs from the first.  Get it <a href="download.php">here</a>.</span></li>

@@ -28,21 +28,23 @@
 </div>
 <div class="section">
   <span class="heading">Ultima IV for DOS</span><br />
-  <p><s>Ultima IV for DOS is <strong>required</strong> to play xu4</s>.  
-  Ultima IV for DOS is not included in any of the binary or source downloads.  
+  <p>Ultima IV for DOS is <strong>required</strong> to play xu4.  
+  Ultima IV for DOS is <strong>not</strong> included in any of the binary or source downloads.  
   The Ultima IV Graphics upgrade upgrade is optional, and can be downloaded below.
   For best results, unzip the following into a ./ultima4 directory.
   Depending on your system, there are a variety of appropriate locations,
   the simplest being wherever the xu4 executable resides.
   </p>
   <ul>
-  	<li>The following Ultima Dragon fan sites are able to host Ultima IV for DOS:
+  	<li><a href="http://prdownloads.sourceforge.net/xu4/u4upgrad.zip?download">The Ultima IV Graphics upgrade</a> (<a href="http://www.moongates.com/u4/upgrade/Upgrade.htm">homepage</a>)</li>
+	<li><a href="http://www.ultimaforever.com">The official Ultima 4 download page</a> by EA and Bioware
+	<li><a href="http://www.gog.com/en/gamecard/ultima_4">Good Old Games</a> offers Ultima 4 for free	
+	<li>The following Ultima Dragon fan sites are allowed to host Ultima IV for DOS:
   	<ul> 
   		<li><a href="http://cheekygamers.com/woo/games/ultima.html">Worlds of Origin</a> - maintained by Lady Whisper Dragon (<a href="http://cheekygamers.com/woo/">homepage</a>)</li>
     	<li><a href="http://www.thatfleminggent.com/ultima/u4download.html">Contrapuntal's Conservatory</a> - maintained by Contrapuntal Dragon (<a href="http://www.thatfleminggent.com/ultima/">homepage</a>)</li>
     </ul>
     </li>
-    <li><a href="http://prdownloads.sourceforge.net/xu4/u4upgrad.zip?download">The Ultima IV Graphics upgrade</a> (<a href="http://www.moongates.com/u4/upgrade/Upgrade.htm">homepage</a>)</li>
   </ul>
 </div>
 <div class="section">
@@ -66,7 +68,7 @@
 </div>
 <div class="section">
   <span class="heading">xu4 Developer Downloads</span><br />
-  <p>Xu4 downloads for developers.</p>
+  <p>Xu4 downloads for Windows developers.</p>
   <ul>
     <li><a href="download/xu4_dev_win32.zip">MinGW headers and libraries</a></li>
     <li><a href="download/xu4_dev_win32_VC6.zip">MS Visual C++ headers and libraries</a></li>
