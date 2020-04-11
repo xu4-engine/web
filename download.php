@@ -37,14 +37,7 @@
   </p>
   <ul>
   	<li><a href="http://prdownloads.sourceforge.net/xu4/u4upgrad.zip?download">The Ultima IV Graphics upgrade</a> (<a href="http://www.moongates.com/u4/upgrade/Upgrade.htm">homepage</a>)</li>
-	<li><a href="http://www.ultimaforever.com">The official Ultima 4 download page</a> by EA and Bioware
 	<li><a href="http://www.gog.com/en/gamecard/ultima_4">Good Old Games</a> offers Ultima 4 for free	
-	<li>The following Ultima Dragon fan sites are allowed to host Ultima IV for DOS:
-  	<ul> 
-  		<li><a href="http://cheekygamers.com/woo/games/ultima.html">Worlds of Origin</a> - maintained by Lady Whisper Dragon (<a href="http://cheekygamers.com/woo/">homepage</a>)</li>
-    	<li><a href="http://www.thatfleminggent.com/ultima/u4download.html">Contrapuntal's Conservatory</a> - maintained by Contrapuntal Dragon (<a href="http://www.thatfleminggent.com/ultima/">homepage</a>)</li>
-    </ul>
-    </li>
   </ul>
 </div>
 <div class="section">
@@ -62,8 +55,8 @@
   <p>Offsite ports:</p>
   <ul>
     <li><a href="http://inter.zon.free.fr/zaurus_index.html#xu4">xu4 for the Sharp Zaurus Handheld</a></li>
-    <li><a href="http://www.beemulated.net/engine/origin.phtml">xu4 for BeOS</a></li>
-    <li><a href="http://www.imrtech.mirrorz.com/">xu4 for the Sega Dreamcast console</a></li>
+    <li><a href="http://www.beemulated.net/engine/origin.phtml">xu4 for BeOS (site has vanished)</a></li>
+    <li><a href="http://www.imrtech.mirrorz.com/">xu4 for the Sega Dreamcast console (site has vanished)</a></li>
   </ul>
 </div>
 <div class="section">
