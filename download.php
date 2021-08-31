@@ -18,12 +18,12 @@
   <span class="menuitem"><a accesskey="7" href="links.html">Links</a></span>
 </div>
 <div class="section">
-  <span class="heading">xu4 Daily Snapshot Builds</span><br />
-   <p>These snapshots are generated using the latest source code updates.  A number of bugs that were present in the older Beta3 build have been fixed in these snapshot builds.<br/>
+  <span class="heading">xu4 Development Snapshot Builds</span><br />
+   <p>These snapshots are generated using recent source code updates.  A number of bugs that were present in the older Beta builds have been fixed in these snapshot builds.<br/>
 	You will need Ultima IV for DOS, it is <strong>not</strong> included with the snapshots.</p>
    <ul>
-    <li><a href="download/xu4win32.exe">xu4 snapshot for Windows</a> <span class="details">(<? $statinfo = stat("download/xu4win32.exe"); echo date("Y-m-d G:i T", $statinfo[9]); ?>)</span></li>
-    <li><a href="download/xu4-MacOSX.dmg">xu4 snapshot for Mac OS X</a> <span class="details">(<? $statinfo = stat("download/xu4-MacOSX.dmg"); echo date("Y-m-d G:i T", $statinfo[9]); ?>, Mac OS X version 10.4 or later required)</span></li>
+    <li><a href="download/xu4-linux.tar.gz">xu4 snapshot for Linux</a> <span class="details">(<? $statinfo = stat("download/xu4-linux.tar.gz"); echo date("Y-m-d G:i T", $statinfo[9]); ?>)</span></li>
+    <li><a href="download/xu4-win32.zip">xu4 snapshot for Windows</a> <span class="details">(<? $statinfo = stat("download/xu4-win32.zip"); echo date("Y-m-d G:i T", $statinfo[9]); ?>)</span></li>
   </ul>
 </div>
 <div class="section">
