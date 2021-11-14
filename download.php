@@ -25,6 +25,11 @@
     <li><a href="download/xu4-linux.tar.gz">xu4 snapshot for Linux</a> <span class="details">(<? $statinfo = stat("download/xu4-linux.tar.gz"); echo date("Y-m-d G:i T", $statinfo[9]); ?>)</span></li>
     <li><a href="download/xu4-win32.zip">xu4 snapshot for Windows</a> <span class="details">(<? $statinfo = stat("download/xu4-win32.zip"); echo date("Y-m-d G:i T", $statinfo[9]); ?>)</span></li>
   </ul>
+  <p>OpenGL Preview:</p>
+   <ul>
+    <li><a href="download/xu4-gl-linux.tar.gz">xu4 preview for Linux</a> <span class="details">(<? $statinfo = stat("download/xu4-gl-linux.tar.gz"); echo date("Y-m-d G:i T", $statinfo[9]); ?>)</span></li>
+    <li><a href="download/xu4-gl-win32.zip">xu4 preview for Windows</a> <span class="details">(<? $statinfo = stat("download/xu4-gl-win32.zip"); echo date("Y-m-d G:i T", $statinfo[9]); ?>)</span></li>
+  </ul>
 </div>
 <div class="section">
   <span class="heading">Ultima IV for DOS</span><br />
