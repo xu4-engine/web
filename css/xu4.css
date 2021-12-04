@@ -41,9 +41,16 @@ div {
     font-family: monospace;
 }
 
-.footer, .divider {
+.footer {
     border: none;
     margin: 0;
+    text-align: center;
+    font-size: 80%;
+    background: #ffffff;
+}
+
+.divider {
+    border: none;
     text-align: center;
     font-size: 80%;
     background: #ffffff;
