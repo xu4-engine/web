@@ -26,8 +26,10 @@
 <div class="title"><h3><span class="heading">xu4 - Ultima IV Recreated</span></h3></div>
 <div class="menu">
   <span class="selectedmenuitem">Home</span> |
-  <span class="menuitem"><a accesskey="2" href="http://sourceforge.net/projects/xu4">Sourceforge project page</a></span> |
+  <span class="menuitem"><a accesskey="2" href="https://sourceforge.net/projects/xu4">Sourceforge Project</a></span> |
   <span class="menuitem"><a accesskey="3" href="screenshots.html">Screenshots</a></span> |
+  <span class="menuitem"><a accesskey="4" href="https://sourceforge.net/p/xu4/di
+scussion/">Discussion Forum</a></span> |
   <span class="menuitem"><a accesskey="6" href="faq.html">FAQ</a></span> |
   <span class="menuitem"><a accesskey="7" href="download.php">Download</a></span> |
   <span class="menuitem"><a accesskey="8" href="links.html">Links</a></span>

@@ -10,9 +10,9 @@
 <div class="title"><h3><span class="heading">xu4 Download</span></h3></div>
 <div class="menu">
   <span class="menuitem"><a accesskey="1" href="index.php">Home</a></span> |
-  <span class="menuitem"><a accesskey="2" href="http://sourceforge.net/projects/xu4">Sourceforge project page</a></span> |
+  <span class="menuitem"><a accesskey="2" href="https://sourceforge.net/projects/xu4">Sourceforge Project</a></span> |
   <span class="menuitem"><a accesskey="3" href="screenshots.html">Screenshots</a></span> |
-  <span class="menuitem"><a accesskey="4" href="http://sourceforge.net/apps/phpbb/xu4/">Discussion Forum</a></span> |
+  <span class="menuitem"><a accesskey="4" href="https://sourceforge.net/p/xu4/discussion/">Discussion Forum</a></span> |
   <span class="menuitem"><a accesskey="5" href="faq.html">FAQ</a></span> |
   <span class="selectedmenuitem">Download</span> |
   <span class="menuitem"><a accesskey="7" href="links.html">Links</a></span>
@@ -49,7 +49,7 @@
   <span class="heading">xu4 Releases</span><br />
   <p><i>The beta download is quite a bit older than the latest snapshot, and still contains a number of bugs that have since been fixed. <b>We suggest you download one of the Daily Snapshot Builds above.</b></i></p>
   <p>Downloads are hosted with SourceForge.net. If you have a supported system, you can download the appropriate binary distribution.  If you have another system, download the source and read the README file for build directions.</p>
-  <p>Please <a href="http://sourceforge.net/apps/phpbb/xu4/">let us know</a> if you successfully port xu4 to a new platform!</p>
+  <p>Please <a href="https://sourceforge.net/p/xu4/discussion/">let us know</a> if you successfully port xu4 to a new platform!</p>
   <ul>
     <li><a href="http://prdownloads.sourceforge.net/xu4/xu4-1.0beta3-win32.exe?download">xu4 1.0beta3 for Windows</a> <span class="details">(2005-10-03 02:57)</span> <span class="details">(1.1Mb, Windows .EXE, doesn't include ultima4.zip, download below)</span></li>
     <li><a href="http://prdownloads.sourceforge.net/xu4/xu4-1.0beta3-1.i386.rpm?download">xu4 1.0beta3 for Linux</a> <span class="details">(2005-10-03 02:57)</span> <span class="details">(2.4Mb, Fedora Core 4 RPM)</span></li>
