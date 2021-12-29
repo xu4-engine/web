@@ -31,7 +31,7 @@
     <li><a href="download/xu4-gl-win32.zip">xu4 preview for Windows</a> <span class="details">(<? $statinfo = stat("download/xu4-gl-win32.zip"); echo date("Y-m-d G:i T", $statinfo[9]); ?>)</span></li>
   </ul>
 </div>
-<div class="section">
+<div class="section" id="dos">
   <span class="heading">Ultima IV for DOS</span><br />
   <p>Ultima IV for DOS is <strong>required</strong> to play xu4.  
   Ultima IV for DOS is <strong>not</strong> included in any of the binary or source downloads.  
@@ -47,24 +47,18 @@
 </div>
 <div class="section">
   <span class="heading">xu4 Releases</span><br />
-  <p><i>The beta download is quite a bit older than the latest snapshot, and still contains a number of bugs that have since been fixed. <b>We suggest you download one of the Daily Snapshot Builds above.</b></i></p>
-  <p>Downloads are hosted with SourceForge.net. If you have a supported system, you can download the appropriate binary distribution.  If you have another system, download the source and read the README file for build directions.</p>
+  <p>Downloads are hosted with SourceForge.net.  If you have a supported system, you can download the appropriate binary archive.  If you have another system, download the source and read the README file for build directions.</p>
   <p>Please <a href="https://sourceforge.net/p/xu4/discussion/">let us know</a> if you successfully port xu4 to a new platform!</p>
   <ul>
-    <li><a href="http://prdownloads.sourceforge.net/xu4/xu4-1.0beta3-win32.exe?download">xu4 1.0beta3 for Windows</a> <span class="details">(2005-10-03 02:57)</span> <span class="details">(1.1Mb, Windows .EXE, doesn't include ultima4.zip, download below)</span></li>
-    <li><a href="http://prdownloads.sourceforge.net/xu4/xu4-1.0beta3-1.i386.rpm?download">xu4 1.0beta3 for Linux</a> <span class="details">(2005-10-03 02:57)</span> <span class="details">(2.4Mb, Fedora Core 4 RPM)</span></li>
-    <li><a href="http://prdownloads.sourceforge.net/xu4/xu4-1.0beta3.dmg?download">xu4 1.0beta3 for Mac OS X</a> <span class="details">(2005-10-03 02:57)</span> <span class="details">(3 Mb, OSX disk image)</span></li>
-    <li><a href="http://prdownloads.sourceforge.net/xu4/xu4-1.0beta3.tar.gz?download">xu4 1.0beta3 source code</a> <span class="details">(2005-10-03 02:57)</span> <span class="details">(409Kb, gzipped tarfile)</span></li>
+    <li><a href="https://sourceforge.net/projects/xu4/files/xu4/1.0beta5/xu4-1.0beta5-linux.tar.gz/download">xu4 1.0beta5 for x86_64 Linux</a> <span class="details">(2022-01-06, 7.8 MB, gzipped tar file)</span></li>
+    <li><a href="https://sourceforge.net/projects/xu4/files/xu4/1.0beta5/xu4-1.0beta5-win32.zip/download">xu4 1.0beta5 for x86_64 Windows</a> <span class="details">(2022-01-06, 9.8 MB, zip file)</span></li>
+    <!--
+    <li><a href="http://prdownloads.sourceforge.net/xu4/xu4-1.0beta5.tar.gz?download">xu4 1.0beta5 source code</a> <span class="details">(2021-12-31, 409Kb, gzipped tar file)</span></li>
+    -->
     <li><a href="http://sourceforge.net/project/showfiles.php?group_id=36225">Other formats and older releases</a></li>
   </ul>
-  <p>Offsite ports:</p>
-  <ul>
-    <li><a href="http://inter.zon.free.fr/zaurus_index.html#xu4">xu4 for the Sharp Zaurus Handheld</a></li>
-    <li><a href="http://www.beemulated.net/engine/origin.phtml">xu4 for BeOS (site has vanished)</a></li>
-    <li><a href="http://www.imrtech.mirrorz.com/">xu4 for the Sega Dreamcast console (site has vanished)</a></li>
-  </ul>
 </div>
-<div class="section">
+<div class="section" id="devel">
   <span class="heading">xu4 Developer Downloads</span><br />
   <p>Linux:</p>
   <ul>
@@ -74,8 +68,6 @@
   <ul>
     <li><a href="https://github.com/liballeg/allegro5/releases/download/5.2.7.0/allegro-x86_64-w64-mingw32-gcc-10.2.0-posix-seh-static-5.2.7.0.zip">Allegro 5 MinGW SDK</a></li>
     <li><a href="download/boron-x86_64-w64-mingw32-static-2.0.7.zip">Boron MinGW SDK</a></li>
-    <li><a href="download/xu4_dev_win32.zip">MinGW headers and libraries</a></li>
-    <li><a href="download/xu4_dev_win32_VC6.zip">MS Visual C++ headers and libraries</a></li>
   </ul>
 </div>
   

@@ -40,19 +40,29 @@ scussion/">Discussion Forum</a></span> |
 
 <div class="section">
 <p><b>Important News:</b></p>
-A major code cleanup began in 2021 after a 5-year hiatus in development
-(and 10 years since the last beta release). Recent work includes:
-<ul>
- <li> Completion of the Allegro 5 platform interface. </li>
- <li> Reworking the configuration to allow alternative storage backends. </li>
- <li> Elimination of compiler warnings &amp; memory leaks. </li>
- <li> Preparing the way for GPU rendering. </li>
-</ul>
+<p>
+Version 1.0 Beta 5 is <a href="download.php#dos">available</a> for
+Linux and Windows.
+</p><p>
+OpenGL is now used for scaling and some missing game features have been
+implemented.
+Read the <a href="https://sourceforge.net/p/xu4/engine/ci/master/tree/ChangeLog">ChangeLog</a> to see the full list of changes.
+</p><p>
+Note that while graphics and sounds modification are technically possible,
+alternate tilesets will not be officially supported until version 1.1.
+</p><p>
+It has been 11 years since the last beta, but development is active again, so
+if testers will step forward a 1.0 release could be done in short order.
+Bugs can be reported at either
+<a href="https://sourceforge.net/p/xu4/bugs/">SourceForge</a> or
+<a href="https://github.com/xu4-engine/u4/issues">Github</a>, but please check
+the list of <a href="https://sourceforge.net/p/xu4/workshop/ci/master/tree/TODO">known bugs</a> first.
+</p>
 </div>
 
 <div class="section" id="info">
 
-  <p>XU4 is a remake of the computer game Ultima IV.  The goal is to make it easy and convenient to play this classic on modern operating systems.  XU4 is primarily inspired by the much more ambitious project <a href="http://exult.sourceforge.net">Exult</a>.  XU4 is a cross-platform application thanks to <acronym title="Simple DirectMedia Layer">SDL</acronym>; it's available for Windows, MacOS X, Linux and more.</p>
+  <p>XU4 is a remake of the computer game Ultima IV.  The goal is to make it easy and convenient to play this classic on modern operating systems.  XU4 is primarily inspired by the much more ambitious project <a href="http://exult.sourceforge.net">Exult</a>.  XU4 is a cross-platform application available for Linux and Windows.  Porting to other platforms with Allegro 5 support should be simple, but the project needs developers who use them.</p>
   <p>This project is currently under development and beta releases are available.  The game is fully playable from beginning to end.  The latest source code can always be accessed from both <a href="https://sourceforge.net/p/xu4/engine/">SourceForge</a> and <a href="https://github.com/xu4-engine">GitHub</a>.</p>
   <p>A secondary goal of this project is to clearly document the formats of the data files from the original Ultima IV.  This work in progress is available here: <a href="https://github.com/xu4-engine/u4/blob/master/doc/FileFormats.md"> FileFormats.md</a></p>
   <p>Please see the <a href="https://github.com/xu4-engine/u4/blob/master/README.md">README</a> file for information on compiling, installing and running xu4.</p>
@@ -62,6 +72,7 @@ A major code cleanup began in 2021 after a 5-year hiatus in development
 <div class="section" id="news">
   <span class="heading">News:</span>
   <ul>
+    <li><span class="newsitem"><span class="date">06/Jan/2022</span> - Beta 5 has been released.</li>
     <li><span class="newsitem"><span class="date">21/Apr/2021</span> - Development of xu4 continues. The code repository has migrated to Git and can be accessed from <a href="https://github.com/xu4-engine">GitHub</a>.</li>
   	<li><span class="newsitem"><span class="date">11/Apr/2020</span> - xu4 became a subengine of <a href="https://www.scummvm.org">ScummVM</a>, development will hopefully continue in their code.</li>
 	<li><span class="newsitem"><span class="date">01/Sep/2011</span> - Since June 2011 EA hosts the official Ultima 4 download on <a href="http://www.ultimaforever.com">UltimaForever</a> and as of today <a href="http://www.gog.com/en/gamecard/ultima_4">Good Old Games</a> offers it for free as well.</span></li>
