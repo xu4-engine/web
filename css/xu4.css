@@ -17,6 +17,8 @@ div {
 }
 
 .menu { 
+    background-image: linear-gradient(white, #e0ebf5);
+    border-radius: 11px 11px 0px 0px;
     font-family: 'trebuchet ms','luxi sans',sans-serif;
     font-size: 80%;
     text-align: center;
