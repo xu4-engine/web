@@ -47,6 +47,7 @@
 </div>
 <div class="section">
   <span class="heading">xu4 Releases</span><br />
+  <p><i>The beta download has bugs that have been fixed in the latest snapshot. <b>If you wish to help test for the 1.0 release please download the Snapshot Build above.</b></i></p>
   <p>Downloads are hosted with SourceForge.net.  If you have a supported system, you can download the appropriate binary archive.  If you have another system, download the source and read the README file for build directions.</p>
   <p>Please <a href="https://sourceforge.net/p/xu4/discussion/">let us know</a> if you successfully port xu4 to a new platform!</p>
   <ul>
