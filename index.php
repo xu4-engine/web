@@ -41,20 +41,16 @@ scussion/">Discussion Forum</a></span> |
 <div class="section">
 <p><b>Important News:</b></p>
 <p>
-Version 1.0 Beta 5 is <a href="download.php">available</a> for
-Linux and Windows.
+The latest <a href="download.php">development snapshot</a>, DR-470c888c,
+is a 1.0 release candidate!
+See the <a href="https://sourceforge.net/p/xu4/discussion/169401/thread/1b33d9cdd8/#af90">announcement</a>
+for a list of changes since the recent 1.0beta5 release.
 </p><p>
-OpenGL is now used for scaling and some missing game features have been
-implemented.
-Read the <a href="https://sourceforge.net/p/xu4/engine/ci/master/tree/ChangeLog">ChangeLog</a> to see the full list of changes.
-</p><p>
-Note that while graphics and sounds modification are technically possible,
+Note that while graphic and sound modifications are technically possible,
 alternate tilesets will not be officially supported until version 1.1.
 </p><p>
-It has been 11 years since the last beta, but development is active again, so
-if testers will step forward a 1.0 release could be done in short order.
-Some bugs in the beta have already been fixed, so testers should download a
-snapshot build and include the DR version in any reports.
+We are hoping to hear from testers that they are able to complete the game
+without issues.
 Bugs can be reported at either
 <a href="https://sourceforge.net/p/xu4/bugs/">SourceForge</a> or
 <a href="https://github.com/xu4-engine/u4/issues">Github</a>, but please check
