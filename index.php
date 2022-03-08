@@ -41,35 +41,30 @@ scussion/">Discussion Forum</a></span> |
 <div class="section">
 <p><b>Important News:</b></p>
 <p>
-The latest <a href="download.php">development snapshot</a>, DR-470c888c,
-is a 1.0 release candidate!
-See the <a href="https://sourceforge.net/p/xu4/discussion/169401/thread/1b33d9cdd8/#af90">announcement</a>
-for a list of changes since the recent 1.0beta5 release.
+Version 1.0 is <a href="download.php#dos">available</a> for Linux and Windows!
+</p><p>
+The interminable 18 year beta period is over.
+See the <a href="https://sourceforge.net/p/xu4/engine/ci/master/tree/ChangeLog">ChangeLog</a>
+for a list of improvements since the recent 1.0beta5 release.
 </p><p>
 Note that while graphic and sound modifications are technically possible,
 alternate tilesets will not be officially supported until version 1.1.
-</p><p>
-We are hoping to hear from testers that they are able to complete the game
-without issues.
-Bugs can be reported at either
-<a href="https://sourceforge.net/p/xu4/bugs/">SourceForge</a> or
-<a href="https://github.com/xu4-engine/u4/issues">Github</a>, but please check
-the list of <a href="https://sourceforge.net/p/xu4/workshop/ci/master/tree/TODO">known bugs</a> first.
 </p>
 </div>
 
 <div class="section" id="info">
 
   <p>XU4 is a remake of the computer game Ultima IV.  The goal is to make it easy and convenient to play this classic on modern operating systems.  XU4 is primarily inspired by the much more ambitious project <a href="http://exult.sourceforge.net">Exult</a>.  XU4 is a cross-platform application available for Linux and Windows.  Porting to other platforms with Allegro 5 support should be simple, but the project needs developers who use them.</p>
-  <p>This project is currently under development and beta releases are available.  The game is fully playable from beginning to end.  The latest source code can always be accessed from both <a href="https://sourceforge.net/p/xu4/engine/">SourceForge</a> and <a href="https://github.com/xu4-engine">GitHub</a>.</p>
+  <p>The game is fully playable from beginning to end.  The latest source code can always be accessed from both <a href="https://sourceforge.net/p/xu4/engine/">SourceForge</a> and <a href="https://github.com/xu4-engine">GitHub</a>.</p>
   <p>A secondary goal of this project is to clearly document the formats of the data files from the original Ultima IV.  This work in progress is available here: <a href="https://github.com/xu4-engine/u4/blob/master/doc/FileFormats.md"> FileFormats.md</a></p>
   <p>Please see the <a href="https://github.com/xu4-engine/u4/blob/master/README.md">README</a> file for information on compiling, installing and running xu4.</p>
-  <p>The original Ultima IV is freeware.  <a href="download.php">Download it here!</a></p>
+  <p>The original Ultima IV is freeware.  <a href="download.php#dos">Download it here!</a></p>
 </div>
-<p />
+
 <div class="section" id="news">
   <span class="heading">News:</span>
   <ul>
+    <li><span class="newsitem"><span class="date">08/Mar/2022</span> - The 18 year beta period ends - version 1.0 is released!</li>
     <li><span class="newsitem"><span class="date">06/Jan/2022</span> - Beta 5 has been released.</li>
     <li><span class="newsitem"><span class="date">21/Apr/2021</span> - Development of xu4 continues. The code repository has migrated to Git and can be accessed from <a href="https://github.com/xu4-engine">GitHub</a>.</li>
   	<li><span class="newsitem"><span class="date">11/Apr/2020</span> - xu4 became a subengine of <a href="https://www.scummvm.org">ScummVM</a>, development will hopefully continue in their code.</li>

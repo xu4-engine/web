@@ -19,7 +19,7 @@
 </div>
 <div class="section">
   <span class="heading">xu4 Development Snapshot Builds</span><br />
-   <p>These snapshots are generated using recent source code updates.  A number of bugs that were present in the older Beta builds have been fixed in these snapshot builds.<br/>
+   <p>These snapshots are generated using recent source code updates.<br/>
 	You will need Ultima IV for DOS, it is <strong>not</strong> included with the snapshots.</p>
    <ul>
     <li><a href="download/xu4-linux.tar.gz">xu4 snapshot for Linux</a> <span class="details">(<? $statinfo = stat("download/xu4-linux.tar.gz"); echo date("Y-m-d G:i T", $statinfo[9]); ?>)</span></li>
@@ -47,15 +47,12 @@
 </div>
 <div class="section">
   <span class="heading">xu4 Releases</span><br />
-  <p><i>The beta download has bugs that have been fixed in the latest snapshot. <b>If you wish to help test for the 1.0 release please download the Snapshot Build above.</b></i></p>
   <p>Downloads are hosted with SourceForge.net.  If you have a supported system, you can download the appropriate binary archive.  If you have another system, download the source and read the README file for build directions.</p>
   <p>Please <a href="https://sourceforge.net/p/xu4/discussion/">let us know</a> if you successfully port xu4 to a new platform!</p>
   <ul>
-    <li><a href="https://sourceforge.net/projects/xu4/files/xu4/1.0beta5/xu4-1.0beta5-linux.tar.gz/download">xu4 1.0beta5 for x86_64 Linux</a> <span class="details">(2022-01-06, 7.8 MB, gzipped tar file)</span></li>
-    <li><a href="https://sourceforge.net/projects/xu4/files/xu4/1.0beta5/xu4-1.0beta5-win32.zip/download">xu4 1.0beta5 for x86_64 Windows</a> <span class="details">(2022-01-06, 9.8 MB, zip file)</span></li>
-    <!--
-    <li><a href="http://prdownloads.sourceforge.net/xu4/xu4-1.0beta5.tar.gz?download">xu4 1.0beta5 source code</a> <span class="details">(2021-12-31, 409Kb, gzipped tar file)</span></li>
-    -->
+    <li><a href="https://sourceforge.net/projects/xu4/files/xu4/1.0/xu4-1.0-linux.tar.gz/download">xu4 1.0 for x86_64 Linux</a> <span class="details">(2022-03-08, 7.8 MB, gzipped tar file)</span></li>
+    <li><a href="https://sourceforge.net/projects/xu4/files/xu4/1.0/xu4-1.0-win32.zip/download">xu4 1.0 for x86_64 Windows</a> <span class="details">(2022-03-08, 9.8 MB, zip file)</span></li>
+    <li><a href="http://sourceforge.net/projects/xu4/files/xu4/1.0/xu4-1.0.tar.gz">xu4 1.0 source code</a> <span class="details">(2022-03-08, 16.4MiB, gzipped tar file)</span></li>
     <li><a href="http://sourceforge.net/project/showfiles.php?group_id=36225">Other formats and older releases</a></li>
   </ul>
 </div>
