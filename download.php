@@ -60,12 +60,12 @@
   <span class="heading">xu4 Developer Downloads</span><br />
   <p>Linux:</p>
   <ul>
-    <li><a href="download/boron-x86_64-static-2.0.7.tar.bz2">Boron SDK</a></li>
+    <li><a href="download/boron-x86_64-static-2.0.8.tar.bz2">Boron SDK</a></li>
   </ul>
   <p>Windows:</p>
   <ul>
     <li><a href="https://github.com/liballeg/allegro5/releases/download/5.2.7.0/allegro-x86_64-w64-mingw32-gcc-10.2.0-posix-seh-static-5.2.7.0.zip">Allegro 5 MinGW SDK</a></li>
-    <li><a href="download/boron-x86_64-w64-mingw32-static-2.0.7.zip">Boron MinGW SDK</a></li>
+    <li><a href="download/boron-x86_64-w64-mingw32-static-2.0.8.zip">Boron MinGW SDK</a></li>
   </ul>
 </div>
   
