@@ -8,8 +8,12 @@ div {
     background: #e0ebf5;
 }
 
+body {
+    background: #866C53;
+}
+
 .title {
-    background: #ffffff;
+    background: #4f3f37;
     border: none;
     margin: 0;
     padding: 0;
@@ -48,7 +52,8 @@ div {
     margin: 0;
     text-align: center;
     font-size: 80%;
-    background: #ffffff;
+    color: #ffffff;
+    background: #4f3f37;
 }
 
 .divider {

@@ -106,7 +106,7 @@ alternate tilesets will not be officially supported until version 1.1.
 <p />
 <div class="footer" id="host">
   Hosted at&nbsp;
-  <a href="http://sourceforge.net"><img src="http://sourceforge.net/sflogo.php?group_id=36225&type=5" width="210" height="62" alt="SourceForge Logo" /></a>
+  <a href="http://sourceforge.net"><img src="http://sourceforge.net/sflogo.php?group_id=36225&type=18" width="210" height="62" alt="SourceForge Logo" /></a>
 </div>
 
 <div class="footer" id="w3">
