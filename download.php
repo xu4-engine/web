@@ -42,7 +42,7 @@
   </p>
   <ul>
   	<li><a href="http://prdownloads.sourceforge.net/xu4/u4upgrad.zip?download">The Ultima IV Graphics upgrade</a> (<a href="http://www.moongates.com/u4/upgrade/Upgrade.htm">homepage</a>)</li>
-	<li><a href="http://www.gog.com/en/gamecard/ultima_4">Good Old Games</a> offers Ultima 4 for free	
+	<li><a href="https://www.gog.com/en/game/ultima_4">Good Old Games</a> offers Ultima 4 for free</li>
   </ul>
 </div>
 <div class="section">
