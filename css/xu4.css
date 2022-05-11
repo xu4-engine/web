@@ -98,3 +98,11 @@ ul li ul li {
 img {
     border: none;
 }
+
+table.gallery tr td:nth-child(odd) {
+	text-align: right;
+}
+
+table.scaler tr td:nth-child(1) {
+	text-align: right;
+}
