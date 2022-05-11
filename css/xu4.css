@@ -37,6 +37,14 @@ body {
     border: solid 1px;
 }
 
+h2 {
+    font-family: 'trebuchet ms','luxi sans',sans-serif;
+    font-weight: bold;
+    font-size: 130%;
+    color: #ef5600;
+    margin: 0;
+}
+
 .heading {
     font-family: 'trebuchet ms','luxi sans',sans-serif;
     font-weight: bold;

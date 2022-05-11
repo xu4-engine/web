@@ -1,21 +1,6 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="utf-8">
-  <title>xu4 Screenshots</title>
-  <link rel="stylesheet" type="text/css" href="css/xu4.css">
-</head>
-<body>
-<div class="title"><h3><span class="heading">xu4 Screenshots</span></h3></div>
-<div class="menu">
-  <span class="menuitem"><a accesskey="1" href="index.html">Home</a></span> |
-  <span class="menuitem"><a accesskey="2" href="https://sourceforge.net/p/xu4">Sourceforge Project</a></span> |
-  <span class="selectedmenuitem">Screenshots</span> |
-  <span class="menuitem"><a accesskey="4" href="https://sourceforge.net/p/xu4/discussion/">Discussion Forum</a></span> |
-  <span class="menuitem"><a accesskey="5" href="faq.html">FAQ</a></span> |
-  <span class="menuitem"><a accesskey="6" href="download.php">Download</a></span> |
-  <span class="menuitem"><a accesskey="7" href="links.html">Links</a></span>
-</div>
+[html "xu4 Screenshots"]
+[site-menu 3]
+
 <div class="section">
   <h2>Game Screenshots</h2> <br>
   <table>
@@ -53,6 +38,7 @@
     </tbody>
   </table>
 </div>
+
 <div class="section">
   <h2>Scaler Comparison</h2>
   <p>Ultima 4 was originally released supporting a screen resolution of 320x200.  Because computers typically run at much higher resolutions now, xu4 will automatically scale all the graphics to a more readable size.  By default, it doubles the size of the original graphics, giving a 640x400 view, but it can use several strategies to make the scale graphics look better.  The idea and algorithms for these scalers come straight out of <a href="http://exult.sourceforge.net/">Exult</a>.  The following shows the available types of scaling, and their results, magnified by an additional two times to clearly show the differences.</p>
@@ -81,6 +67,7 @@
     </tbody>
   </table>
 </div>
+
 <div class="section">
   <h2>Other Ultima IV and xu4 Artwork</h2>
   <p>Here is an xu4 generated map of the entire Ultima IV world in the VGA tileset (warning, large!): <a href="images/map.png">map.png</a> <span class="details">(690Kb)</span></p>
@@ -88,10 +75,4 @@
   <p>Here are maps of the various townes and castles using the Amiga tileset: <a href="images/amitowns/lcb_2.png">lcb_2.png</a>, <a href="images/amitowns/lcb_1.png">lcb_1.png</a>, <a href="images/amitowns/lycaeum.png">lycaeum.png</a>, <a href="images/amitowns/empath.png">empath.png</a>, <a href="images/amitowns/serpent.png">serpent.png</a>, <a href="images/amitowns/moonglow.png">moonglow.png</a>, <a href="images/amitowns/britain.png">britain.png</a>, <a href="images/amitowns/jhelom.png">jhelom.png</a>, <a href="images/amitowns/yew.png">yew.png</a>, <a href="images/amitowns/minoc.png">minoc.png</a>, <a href="images/amitowns/trinsic.png">trinsic.png</a>, <a href="images/amitowns/skara.png">skara.png</a>, <a href="images/amitowns/magincia.png">magincia.png</a>, <a href="images/amitowns/paws.png">paws.png</a>, <a href="images/amitowns/den.png">den.png</a>, <a href="images/amitowns/vesper.png">vesper.png</a>, <a href="images/amitowns/cove.png">cove.png</a>.</p> 
 </div>
   
-<div class="footer">
-  Hosted at&nbsp; <a href="http://sourceforge.net">
-  <img src="http://sourceforge.net/sflogo.php?group_id=36225&amp;type=18" width="210" height="62" alt="SourceForge Logo" style="vertical-align: middle"/>
-  </a>
-</div>
-</body>
-</html>
+[sf-footer]

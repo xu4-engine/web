@@ -1,30 +1,17 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="utf-8">
-  <title>xu4 FAQ</title>
-  <link rel="stylesheet" type="text/css" href="css/xu4.css">
-</head>
-<body>
-<div class="title"><h3><span class="heading">xu4 FAQ</span></h3></div>
-<div class="menu">
-  <span class="menuitem"><a accesskey="1" href="index.html">Home</a></span> |
-  <span class="menuitem"><a accesskey="2" href="https://sourceforge.net/p/xu4">Sourceforge Project</a></span> |
-  <span class="menuitem"><a accesskey="3" href="screenshots.html">Screenshots</a></span> |
-  <span class="menuitem"><a accesskey="4" href="https://sourceforge.net/p/xu4/discussion/">Discussion Forum</a></span> |
-  <span class="selectedmenuitem">FAQ</span> |
-  <span class="menuitem"><a accesskey="6" href="download.php">Download</a></span> |
-  <span class="menuitem"><a accesskey="7" href="links.html">Links</a></span>
-</div>
+[html "xu4 FAQ"]
+[site-menu 5]
+
 <div class="divider">
   <img src="images/small-castle.png" width="96" height="32" alt="[picture of Ultima 4 castle]"/>
 </div>
+
 <div class="section" id="info">
   <span class="large">S</span>ince xu4 is a work in progress, we've received a lot of questions about how to run xu4, its
   progress, and where we're headed with the project.  With enough people asking the same questions
   again and again, we found it prudent to create a <i>Frequently Asked Questions</i> section of
   the web site to answer many of the more important questions about xu4.
 </div>
+
 <div class="section" id="faq">
   <h2>Frequently Asked Questions</h2>
   <ul>
@@ -45,6 +32,7 @@
       You can also mention them in the <a href="https://sourceforge.net/p/xu4/discussion/">forum</a> if you'd like.</li>
     <li class="question"><b>Q:</b> What (if anything) do you guys plan to work on after the 1.0 release?</li>
     <li class="answer"><b>A:</b> Well, we're still figuring out the exact details, but mainly we're trying to make xu4 a game engine that will ultimately run Ultima 1 through 4 and possibly Ultima 5 as well. In this process, we're extrapolating different commonalities between the games into our engine.<br /><br />
+
       This includes:
       <ul>
         <li>sound</li>
@@ -58,6 +46,7 @@
     </li>
     <li class="question"><b>Q:</b> How can I change or reset my settings? Where is my savegame stored?</li>
     <li class="answer"><b>A:</b>You can reset your settings to the defaults by removing the settings file.  Both the settings and the 'party.sav' savegame file are stored where applications typically store user specific data.  The exact location depends on what operating system you are running.<br /><br />
+
       <ul>
         <li>Windows: Usually in C:\Documents and Settings\<i>username</i>\Application Data\xu4\.  The settings file is named xu4.cfg and the savegame is party.sav.</li>
         <li>Linux: ~/.config/xu4/.  The settings file is named xu4rc and savegame is party.sav.</li>
@@ -66,10 +55,5 @@
     </li>
   </ul>
 </div>
-<div class="footer">
-  Hosted at&nbsp; <a href="http://sourceforge.net">
-  <img src="http://sourceforge.net/sflogo.php?group_id=36225&amp;type=18" width="210" height="62" alt="SourceForge Logo" style="vertical-align: middle"/>
-  </a>
-</div>
-</body>
-</html>
+
+[sf-footer]

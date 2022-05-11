@@ -1,21 +1,6 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="utf-8">
-  <title>xu4 Links</title>
-  <link rel="stylesheet" type="text/css" href="css/xu4.css">
-</head>
-<body>
-<div class="title"><h3><span class="heading">xu4 Links</span></h3></div>
-<div class="menu">
-  <span class="menuitem"><a accesskey="1" href="index.html">Home</a></span> |
-  <span class="menuitem"><a accesskey="2" href="https://sourceforge.net/p/xu4">Sourceforge Project</a></span> |
-  <span class="menuitem"><a accesskey="3" href="screenshots.html">Screenshots</a></span> |
-  <span class="menuitem"><a accesskey="4" href="https://sourceforge.net/p/xu4/discussion/">Discussion Forum</a></span> |
-  <span class="menuitem"><a accesskey="5" href="faq.html">FAQ</a></span> |
-  <span class="menuitem"><a accesskey="6" href="download.php">Download</a></span> |
-  <span class="selectedmenuitem">Links</span>
-</div>
+[html "xu4 Links"]
+[site-menu 7]
+
 <div class="section">
   <h2>Ultima IV Information</h2>
   <ul>
@@ -25,6 +10,7 @@
     <li>Wikipedia's <a href="http://en.wikipedia.org/wiki/Ultima_IV">Ultima IV overview</a></li>
   </ul>
 </div>
+
 <div class="section">
   <h2>File formats information</h2>
   <ul>
@@ -33,6 +19,7 @@
     <li><a href="http://nodling.nullneuron.net/">A copy of Nodling's page "Ultima Tech Info and Patches"</a></li>
   </ul>
 </div>
+
 <div class="section">
   <h2>Other Ultima IV projects</h2>
   <ul>
@@ -41,6 +28,7 @@
     <li><a href="http://www.ultimaaiera.com/ultima4/avatarship/">Avatarship</a>, Ultima IV redone in Neverwinter Nights</li>
   </ul>
 </div>
+
 <div class="section">
   <h2>Other remake projects</h2>
   <ul>
@@ -52,6 +40,7 @@
     <li>An <a href="http://www.eob2remake.com/">Eye of the Beholder</a> remake</li>
   </ul>
 </div>
+
 <div class="section">
   <h2>Miscellaneous</h2>
   <ul>
@@ -65,10 +54,4 @@
   </ul>
 </div>
   
-<div class="footer">
-  Hosted at&nbsp; <a href="http://sourceforge.net">
-  <img src="http://sourceforge.net/sflogo.php?group_id=36225&amp;type=18" width="210" height="62" alt="SourceForge Logo" style="vertical-align: middle"/>
-  </a>
-</div>
-</body>
-</html>
+[sf-footer]

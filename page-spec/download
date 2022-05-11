@@ -1,21 +1,6 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="utf-8">
-  <title>xu4 Download</title>
-  <link rel="stylesheet" type="text/css" href="css/xu4.css">
-</head>
-<body>
-<div class="title"><h3><span class="heading">xu4 Download</span></h3></div>
-<div class="menu">
-  <span class="menuitem"><a accesskey="1" href="index.html">Home</a></span> |
-  <span class="menuitem"><a accesskey="2" href="https://sourceforge.net/p/xu4">Sourceforge Project</a></span> |
-  <span class="menuitem"><a accesskey="3" href="screenshots.html">Screenshots</a></span> |
-  <span class="menuitem"><a accesskey="4" href="https://sourceforge.net/p/xu4/discussion/">Discussion Forum</a></span> |
-  <span class="menuitem"><a accesskey="5" href="faq.html">FAQ</a></span> |
-  <span class="selectedmenuitem">Download</span> |
-  <span class="menuitem"><a accesskey="7" href="links.html">Links</a></span>
-</div>
+[html "xu4 Download"]
+[site-menu 6]
+
 <div class="section">
   <h2>xu4 Development Snapshot Builds</h2>
    <p>These snapshots are generated using recent source code updates.<br/>
@@ -30,6 +15,7 @@
     <li><a href="download/xu4-gl-win32.zip">xu4 preview for Windows</a> <span class="details">(<? $statinfo = stat("download/xu4-gl-win32.zip"); echo date("Y-m-d G:i T", $statinfo[9]); ?>)</span></li>
   </ul>
 </div>
+
 <div class="section" id="dos">
   <h2>Ultima IV for DOS</h2>
   <p>Ultima IV for DOS is <strong>required</strong> to play xu4.  
@@ -44,6 +30,7 @@
 	<li><a href="https://www.gog.com/en/game/ultima_4">Good Old Games</a> offers Ultima 4 for free</li>
   </ul>
 </div>
+
 <div class="section">
   <h2>xu4 Releases</h2>
   <p>Downloads are hosted with SourceForge.net.  If you have a supported system, you can download the appropriate binary archive.  If you have another system, download the source and read the README file for build directions.</p>
@@ -55,6 +42,7 @@
     <li><a href="http://sourceforge.net/project/showfiles.php?group_id=36225">Other formats and older releases</a></li>
   </ul>
 </div>
+
 <div class="section" id="devel">
   <h2>xu4 Developer Downloads</h2>
   <p>Linux:</p>
@@ -68,10 +56,4 @@
   </ul>
 </div>
   
-<div class="footer">
-  Hosted at&nbsp; <a href="http://sourceforge.net">
-  <img src="http://sourceforge.net/sflogo.php?group_id=36225&amp;type=18" width="210" height="62" alt="SourceForge Logo" style="vertical-align: middle"/>
-  </a>
-</div>
-</body>
-</html>
+[sf-footer]

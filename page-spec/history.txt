@@ -1,0 +1,37 @@
+08/Mar/2022  The 18 year beta period ends - version 1.0 is released!
+06/Jan/2022  Beta 5 has been released.
+21/Apr/2021  Development of xu4 continues. The code repository has migrated to Git and can be accessed from <a href="https://github.com/xu4-engine">GitHub</a>.
+11/Apr/2020  xu4 became a subengine of <a href="https://www.scummvm.org">ScummVM</a>, development will hopefully continue in their code.
+01/Sep/2011  Since June 2011 EA hosts the official Ultima 4 download on <a href="http://www.ultimaforever.com">UltimaForever</a> and as of today <a href="http://www.gog.com/en/gamecard/ultima_4">Good Old Games</a> offers it for free as well.
+23/Dec/2010  A <a href="http://sourceforge.net/apps/phpbb/xu4/">new bulletin board / forum</a> has been created for xu4. We hope the community comes back (and the spammers do not).
+02/Oct/2005  The long-awaited third beta is out: see <a href="forum">the forum</a> for the details.  Download it <a href="download.php">here</a>.
+06/Jan/2005  A second beta is now available, which fixes a few bugs from the first.  Get it <a href="download.php">here</a>.
+30/Nov/2004  The first beta of <a href="download.php">xu4 1.0</a> of is now available.
+20/Jul/2004  A <a href="faq.html">FAQ section</a> is now available on the web site. <a href="forum">Let us know</a> if there are any other questions that should listed.
+24/Feb/2004  Version <a href="download.php">0.9</a> of xu4 is now out.  This version is more complete and stable than ever.  Ultima IV is now fully playable from beginning to end.
+27/Oct/2003  A new release of xu4 is out: <a href="download.php">Download it here.</a>
+15/Oct/2003  xu4 has a new <a href="forum">discussion forum</a> based on Phorum.  If you have any questions or comments on Ultima IV or xu4, the xu4 users and developers would like to hear from you.
+10/Oct/2003  A new version of <a href="download.php">Ultima IV for DOS</a> with some minor bugfixes is now available for <a href="download.php">download</a>.  This update fixes some conversation bugs that caused certain pieces of dialogue to be unreachable.
+29/Jul/2003  <a href="download.php">xu4 0.7</a> has been released.  Please download it, give it a try, and <a href="http://sourceforge.net/tracker/?atid=417353&group_id=36225&func=browse">let us know</a> how it works!
+04/Jun/2003  xu4 has been <a href="http://inter.zon.free.fr/zaurus_index.html#xu4">ported</a> to the Linux-based <a href="http://www.sharp-usa.com/products/TypeLanding/0,1056,112,00.html">Sharp Zaurus</a> handheld.
+07/May/2003  A <a href="download.php">Mac OSX build of 0.6</a> is now available.
+07/Apr/2003  Version 0.6 is <a href="download.php">out</a>.  This time with lots of vendor and combat fixes; xu4 is getting awfully close to being playable!
+09/Mar/2003  A MacOS X build is now available <a href="download/xu4.tar.gz">here</a>!  Please report any problems you have; hopefully we'll be able to offer MacOS X releases soon.  Also check out the <a href="screenshots.html">MacOS X screenshot</a>.
+04/Mar/2003  xu4 has been <a href="http://r2k2gate.topcities.com/">ported</a> to the Sega Dreamcast!  And in other news, the xu4 website received <a href="http://sourceforge.net/project/stats/index.php?report=months&group_id=36225">over 10,000 hits</a> last month, our best month yet.
+17/Feb/2003  Version <a href="http://sourceforge.net/project/showfiles.php?group_id=36225">0.5</a> has just been released.  I've bumped up the version number to 0.5 since my guess is the game is about half done.  Check out this release's mostly working combat!
+17/Jan/2003  Nightly builds for Windows are available from the <a href="http://xu4.sourceforge.net/download.php">download page</a>.  These builds aren't tested, but are the best way to try out new features in between releases.  As always, <a href="http://sourceforge.net/tracker/?atid=417353&group_id=36225&func=browse">bug reports</a> are welcome.
+12/Dec/2002  Version <a href="http://sourceforge.net/project/showfiles.php?group_id=36225">0.09</a> is out.  This release has the very beginnings of combat, food vendors, and fixes lots of bugs.
+17/Nov/2002  Marc Winterrowd has contributed a <a href="http://cvs.sourceforge.net/viewcvs.py/*checkout*/xu4/u4/doc/xu4wincvs.txt?rev=HEAD">tutorial</a> on how to compile the latest CVS source under Windows.
+08/Oct/2002  <a href="http://sourceforge.net/project/showfiles.php?group_id=36225">Version 0.08</a> is out -- new features include poison, death and meditation.  Progress is being made with spells, too; Awaken, Cure, Dispel, Heal, and Resurrect all work.
+25/Sep/2002  Ultima IV for DOS is now mirrored <a href="http://sourceforge.net/project/showfiles.php?group_id=36225">here</a>.  Origin generously allows Ultima IV to be freely distributed, and it is required to run xu4.
+18/Aug/2002  Version <a href="http://sourceforge.net/project/showfiles.php?group_id=36225">0.07</a> has been released.  Please submit <a href="http://sourceforge.net/tracker/?atid=417353&group_id=36225&func=browse">bug reports</a> for problems you would like to see fixed.
+29/Jul/2002  Claus Windeler writes that BeOS binaries for xu4 are available at <a href="http://www.beemulated.net">http://www.beemulated.net</a>.
+24/Jul/2002  <a href="http://sourceforge.net/project/showfiles.php?group_id=36225">xu4 0.06</a> has been released, and new <a href="screenshots.html">screenshots</a> have been posted.  New with this version:  walls can no longer be seen through and the moongates work.
+16/Jul/2002  Added a <a href="links.html">links page</a>.  The CVS code now has support for ships, horses, and balloons.
+07/Jun/2002  Version 0.05 is finally out.  This release has MIDI background music, the animations on the intro screen, and some very preliminary armor/weapons vendor support.  Download it <a href="http://sourceforge.net/project/showfiles.php?group_id=36225">here</a>.
+15/May/2002  xu4 version 0.04 has been released.  The introduction story and character creation is the primary new feature in this version.  See the <a href="screenshots.html">screenshots</a> and <a href="http://sourceforge.net/project/showfiles.php?group_id=36225">try it out</a>
+24/Apr/2002  xu4 version 0.03 has been released.  As usual, source, binaries for Windows, and binaries for i386 Linux are available.  There are lots of improvements in this version, including support for the graphics upgrade patch.  Check out the new <a href="screenshots.html">screenshots</a>, download it <a href="http://prdownloads.sourceforge.net/xu4/">here</a>
+16/Apr/2002  Version 0.02 is out.  In addition to source, binaries for Windows and (i386) Linux are available.  Download it <a href="http://prdownloads.sourceforge.net/xu4/">here</a>
+12/Apr/2002  <a href="screenshots.html">Screenshots!</a>
+09/Apr/2002  A <a href="http://prdownloads.sourceforge.net/xu4/">Windows port</a> is now is available.
+08/Apr/2002  The very first alpha release is out!  Download it <a href="http://prdownloads.sourceforge.net/xu4/">here</a>; <a href="http://sourceforge.net/tracker/?group_id=36225">feedback</a> is welcome!

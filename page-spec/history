@@ -1,0 +1,11 @@
+[html "xu4 - History"]
+[site-menu 0]
+
+<div class="section" id="news">
+  <h2>xu4 History</h2>
+  <ul>
+    [news 'all]
+  </ul>
+</div>
+
+[sf-footer]
