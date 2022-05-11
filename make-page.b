@@ -141,7 +141,8 @@ thumbnail: func [path] [
 ]
 
 basename: func [path] [
-    if out: find/last path '/' [return next out]
+    if pos: find/last path '/' [path: next pos]
+    if pos: find/last path '.' [path: slice path pos]
     path
 ]
 
@@ -156,7 +157,13 @@ html-page: func [file] [
       | tok: thru '^/' :tok               (if ne? tok "^/" [append parts tok])
     ]]
     append parts "</body>^/</html>^/"
-    write rejoin [basename file %.html] rejoin bind parts keywords
+
+    ext: switch skip tail file -3 [
+        %.bh [%.html]
+        %.bp [%.php]
+             [%.html]
+    ]
+    write join basename file ext rejoin bind parts keywords
 ]
 
 foreach f args [html-page f]
