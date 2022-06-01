@@ -24,6 +24,13 @@
     <li><a href="download/xu4-linux.tar.gz">xu4 snapshot for Linux</a> <span class="details">(<? $statinfo = stat("download/xu4-linux.tar.gz"); echo date("Y-m-d G:i T", $statinfo[9]); ?>)</span></li>
     <li><a href="download/xu4-win32.zip">xu4 snapshot for Windows</a> <span class="details">(<? $statinfo = stat("download/xu4-win32.zip"); echo date("Y-m-d G:i T", $statinfo[9]); ?>)</span></li>
   </ul>
+  <p>Game Modules:</p>
+   <ul>
+    <li><a href="download/U4-Aradindae.mod">U4-Aradindae</a> (music)</li>
+    <li><a href="download/U4-Voyager-11.mod">U4-Voyager-11</a> (music)</li>
+    <li><a href="download/U4-Voyager-12.mod">U4-Voyager-12</a> (music)</li>
+    <li><a href="download/U4-Recreated.mod">U4-Recreated</a> (voice)</li>
+   </ul>
   <p>OpenGL Preview:</p>
    <ul>
     <li><a href="download/xu4-gl-linux.tar.gz">xu4 preview for Linux</a> <span class="details">(<? $statinfo = stat("download/xu4-gl-linux.tar.gz"); echo date("Y-m-d G:i T", $statinfo[9]); ?>)</span></li>
