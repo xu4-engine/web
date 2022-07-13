@@ -26,9 +26,6 @@
   </ul>
   <p>Game Modules:</p>
    <ul>
-    <li><a href="download/U4-Aradindae.mod">U4-Aradindae</a> (music)</li>
-    <li><a href="download/U4-Voyager-11.mod">U4-Voyager-11</a> (music)</li>
-    <li><a href="download/U4-Voyager-12.mod">U4-Voyager-12</a> (music)</li>
     <li><a href="download/U4-Recreated.mod">U4-Recreated</a> (voice)</li>
    </ul>
   <p>OpenGL Preview:</p>
@@ -56,10 +53,16 @@
   <p>Downloads are hosted with SourceForge.net.  If you have a supported system, you can download the appropriate binary archive.  If you have another system, download the source and read the README file for build directions.</p>
   <p>Please <a href="https://sourceforge.net/p/xu4/discussion/">let us know</a> if you successfully port xu4 to a new platform!</p>
   <ul>
-    <li><a href="https://sourceforge.net/projects/xu4/files/xu4/1.0/xu4-1.0-linux.tar.gz/download">xu4 1.0 for x86_64 Linux</a> <span class="details">(2022-03-08, 7.8 MB, gzipped tar file)</span></li>
-    <li><a href="https://sourceforge.net/projects/xu4/files/xu4/1.0/xu4-1.0-win32.zip/download">xu4 1.0 for x86_64 Windows</a> <span class="details">(2022-03-08, 9.8 MB, zip file)</span></li>
-    <li><a href="http://sourceforge.net/projects/xu4/files/xu4/1.0/xu4-1.0.tar.gz">xu4 1.0 source code</a> <span class="details">(2022-03-08, 16.4MiB, gzipped tar file)</span></li>
+    <li><a href="https://sourceforge.net/projects/xu4/files/xu4/1.1/xu4-1.1-linux.tar.gz/download">xu4 1.1 for x86_64 Linux</a> <span class="details">(2022-07-13, 8.0 MB, gzipped tar file)</span></li>
+    <li><a href="https://sourceforge.net/projects/xu4/files/xu4/1.1/xu4-1.1-win32.zip/download">xu4 1.1 for x86_64 Windows</a> <span class="details">(2022-07-13, 9.7 MB, zip file)</span></li>
+    <!-- <li><a href="http://sourceforge.net/projects/xu4/files/xu4/1.0/xu4-1.0.tar.gz">xu4 1.0 source code</a> <span class="details">(2022-03-08, 16.4MiB, gzipped tar file)</span></li> -->
     <li><a href="http://sourceforge.net/project/showfiles.php?group_id=36225">Other formats and older releases</a></li>
+  </ul>
+  Music Modules:
+  <ul>
+    <li><a href="https://sourceforge.net/projects/xu4/files/xu4/1.1/U4-Aradindae.mod/download">Aradindae Dragon</a> <span class="details">(2022-07-13, 9.7 MB, xu4 module)</span></li>
+    <li><a href="https://sourceforge.net/projects/xu4/files/xu4/1.1/U4-Voyager-12.mod/download">Voyager Dragon 1.1</a> <span class="details">(2022-07-13, 13.6 MB, xu4 module)</span></li>
+    <li><a href="https://sourceforge.net/projects/xu4/files/xu4/1.1/U4-Voyager-12.mod/download">Voyager Dragon 1.2</a> <span class="details">(2022-07-13, 17.3 MB, xu4 module)</span></li>
   </ul>
 </div>
 <div class="section" id="devel">

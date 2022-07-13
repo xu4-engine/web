@@ -10,14 +10,15 @@
 <div class="section">
 <p><b>Important News:</b></p>
 <p>
-Version 1.0 is <a href="download.php#dos">available</a> for Linux and Windows!
+Version 1.1 is <a href="download.php#dos">available</a> for Linux and Windows!
 </p><p>
-The interminable 18 year beta period is over.
-See the <a href="https://sourceforge.net/p/xu4/engine/ci/master/tree/ChangeLog">ChangeLog</a>
-for a list of improvements since the recent 1.0beta5 release.
+This release uses a new audio backend and some missing sound effects were added.
+Separate soundtrack modules can now be loaded from inside the game.
+The <a href="https://sourceforge.net/p/xu4/engine/ci/master/tree/ChangeLog">ChangeLog</a>
+contains the full list of improvements.
 </p><p>
-Note that while graphic and sound modifications are technically possible,
-alternate tilesets will not be officially supported until version 1.1.
+Note that while graphic modifications are technically possible,
+alternate tilesets will not be officially supported until a later version.
 </p>
 </div>
 
