@@ -55,7 +55,7 @@
   <ul>
     <li><a href="https://sourceforge.net/projects/xu4/files/xu4/1.1/xu4-1.1-linux.tar.gz/download">xu4 1.1 for x86_64 Linux</a> <span class="details">(2022-07-13, 8.0 MB, gzipped tar file)</span></li>
     <li><a href="https://sourceforge.net/projects/xu4/files/xu4/1.1/xu4-1.1-win32.zip/download">xu4 1.1 for x86_64 Windows</a> <span class="details">(2022-07-13, 9.7 MB, zip file)</span></li>
-    <!-- <li><a href="http://sourceforge.net/projects/xu4/files/xu4/1.0/xu4-1.0.tar.gz">xu4 1.0 source code</a> <span class="details">(2022-03-08, 16.4MiB, gzipped tar file)</span></li> -->
+    <li><a href="http://sourceforge.net/projects/xu4/files/xu4/1.1/xu4-1.1.tar.gz">xu4 1.1 source code</a> <span class="details">(2022-07-23, 8.0MB, gzipped tar file)</span></li>
     <li><a href="http://sourceforge.net/project/showfiles.php?group_id=36225">Other formats and older releases</a></li>
   </ul>
   Music Modules:
