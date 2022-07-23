@@ -1,17 +1,56 @@
 Quick and dirty guide to our Website
 ====================================
 
-- checkout our repository in Git called "web".
+Overview
+--------
 
-- change/add stuff there 
+Most of the site is in the "web" Git repository, but a separate download
+directory is used on the web server for files that are large or change
+frequently.
 
-- commit and push changes to Git
+The site HTML is built using a code generator (a small Boron script).
+A Makefile is used for updates, with transfers done via rsync.
 
--create interactive shell session (see http://sourceforge.net/apps/trac/sourceforge/wiki/Shell%20service):
- ssh -t USER,xu4@shell.sourceforge.net create
 
-- change dir to our webspace (cd /home/project-web/xu4/web)
+Initial Setup
+-------------
 
-- execute "./update.sh" (updates /home/project-web/xu4/web with Git version and gives the right permissions to everyone)
+ - Export the environment variable "SF_USER" with your SourceForge user name.
 
-Please make use of this and do not edit the webspace directly.
+ - Checkout the web repository:
+
+       git clone ssh://${SF_USER}@git.code.sf.net/p/xu4/web
+
+ - Run "make fetch_dl" to get a local copy of the download directory.
+
+
+Modifying the Site
+------------------
+
+ - Change files in the page-spec/, css/, images/ & download/ directories as
+   desired.
+
+ - Run "make" to generate a local copy of the HTML files.  These may be
+   inspected in a web browser before updating the site.
+
+ - Use "make update" to upload the changed files to the web server
+
+ - Commit and push both the page-spec/ source files and the generated output
+   to Git.  The outputs are kept in the repository so that:
+
+     1. Page changes can be checked using "git diff".
+     2. Replacing the generator script (or returning to manual edits) could
+        be more easily done.
+
+
+Removing Files
+--------------
+
+To remove files from the server use an rsync command with the "--delete"
+option or login to the web server.
+
+To login create an interactive shell session
+(see http://sourceforge.net/apps/trac/sourceforge/wiki/Shell%20service):
+
+    ssh -t ${SF_USER},xu4@shell.sourceforge.net create
+    cd /home/project-web/xu4/htdocs
