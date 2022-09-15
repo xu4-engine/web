@@ -21,9 +21,15 @@
   <table class="gallery">
       <tr>
         <td>Introduction sequence</td>
-        <td><a href="images/intro1.png"><img height="100" width="160" src="images/intro1.png" alt="Screenshot 3" /></a></td>
+        <td><a href="images/intro1.png"><img height="100" width="160" src="images/intro1.png" alt="Introduction" /></a></td>
+        <td>Introduction (U4-Upgrade)</td>
+        <td><a href="images/intro1-vu.png"><img height="100" width="160" src="images/intro1-vu.png" alt="Upgrade Introduction" /></a></td>
+      </tr>
+      <tr>
         <td>Talking with the Gypsy</td>
-        <td><a href="images/intro2.png"><img height="100" width="160" src="images/intro2.png" alt="Screenshot 4" /></a></td>
+        <td><a href="images/intro2.png"><img height="100" width="160" src="images/intro2.png" alt="Card Casting" /></a></td>
+        <td>Gypsy (U4-Upgrade)</td>
+        <td><a href="images/intro2-vu.png"><img height="100" width="160" src="images/intro2-vu.png" alt="Upgrade Card Casting" /></a></td>
       </tr>
       <tr>
         <td>Outdoors with original graphics</td>
@@ -32,50 +38,29 @@
         <td><a href="images/shot2.png"><img height="100" width="160" src="images/shot2.png" alt="Screenshot 2" /></a></td>
       </tr>
       <tr>
+        <td>In a dungeon</td>
+        <td><a href="images/dungeon.png"><img height="100" width="160" src="images/dungeon.png" alt="Dungeon Screenshot" /></a></td>
+        <td>Dungeon (U4-Upgrade)</td>
+        <td><a href="images/dungeon-up.png"><img height="100" width="160" src="images/dungeon-up.png" alt="Upgrade Dungeon" /></a></td>
+      </tr>
+      <tr>
         <td>In the forest by Yew</td>
         <td><a href="images/forest.png"><img height="100" width="160" src="images/forest.png" alt="Forest Screenshot" /></a></td>
-        <td>By a Moongate on horseback</td>
+        <td>Near a moongate on horseback</td>
         <td><a href="images/moongate.png"><img height="100" width="160" src="images/moongate.png" alt="Moongate Screenshot" /></a></td>
       </tr>
       <tr>
-        <td>In a dungeon</td>
-        <td><a href="images/dungeon.png"><img height="100" width="160" src="images/dungeon.png" alt="Dungeon Screenshot" /></a></td>
         <td>In the depths of the Abyss</td>
         <td><a href="images/codex.png"><img height="100" width="160" src="images/codex.png" alt="Abyss Screenshot" /></a></td>
-      </tr>
-      <tr>
-        <td>xu4 on a Linux desktop</td>
-        <td><a href="images/shot3.png"><img height="150" width="200" src="images/shot3.png" alt="Linux Screenshot" /></a></td>
-        <td>xu4 on a MacOS X desktop</td>
-        <td><a href="images/U4-MacOSX.png"><img height="150" width="200" src="images/U4-MacOSX.png" alt="MacOS X Screenshot" /></a></td>
       </tr>
   </table>
 </div>
 <div class="section">
   <h2>Scaler Comparison</h2>
-  <p>Ultima 4 was originally released supporting a screen resolution of 320x200.  Because computers typically run at much higher resolutions now, xu4 will automatically scale all the graphics to a more readable size.  By default, it doubles the size of the original graphics, giving a 640x400 view, but it can use several strategies to make the scale graphics look better.  The idea and algorithms for these scalers come straight out of <a href="http://exult.sourceforge.net/">Exult</a>.  The following shows the available types of scaling, and their results, magnified by an additional two times to clearly show the differences.</p>
-  <table class="scaler">
-      <tr>
-        <td>Point Scaler</td>
-        <td><img height="128" width="192" src="images/scale_default.png" alt="[Point Scaler Screenshot]" /></td>
-        <td>The point scaler simply doubles each pixel.  The result is sharp but blocky.</td>
-      </tr>
-      <tr>
-        <td>2xBi Bilinear Scaler</td>
-        <td><img height="128" width="192" src="images/scale_2xBi.png" alt="[2xBi Scaler Screenshot]" /></td>
-        <td>The 2xBi bilinear scaler makes the pixels blend into each other.  The result is less blocky but somewhat blurry.</td>
-      </tr>
-      <tr>
-        <td>2xSaI Scaler</td>
-        <td><img height="128" width="192" src="images/scale_2xSaI.png" alt="[2xSaI Scaler Screenshot]" /></td>
-        <td>The 2xSaI scaler is similar to the bilinear, but takes special care to handle angles and get rid of the stair-step effect.  The result a bit less blurry than the bilinear, and nice smooth diagonals; the castle turrets in particular look much better.</td>
-      </tr>
-      <tr>
-        <td>Scale2x Scaler</td>
-        <td><img height="128" width="192" src="images/scale_AM.png" alt="[Scale2x Scaler Screenshot]" /></td>
-        <td>The Scale2x (formerly called AdvanceMAME) scaler, like 2xSaI, tries to heuristically make angles look nice.  But unlike 2xSaI, it does it without interpolating colors; only the original image colors are used.  This results in a sharper image.</td>
-      </tr>
-  </table>
+  <p>Ultima 4 was originally released supporting a screen resolution of 320x200.  Because computers typically run at much higher resolutions now, xu4 will automatically scale all the graphics to a more readable size.  HQX and xBR-lv2 scaling shaders are provided to anti-alias the larger pixels.  Click on the image below to compare their results.</p>
+  <p style="text-align: center">
+	<a href="images/filter.png"><img width="480" height="300" src="images/filter.png" alt="Pixel Filters" /></a>
+ </p>
 </div>
 <div class="section">
   <h2>Other Ultima IV and xu4 Artwork</h2>
