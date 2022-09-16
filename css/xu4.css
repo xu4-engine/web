@@ -99,8 +99,13 @@ img {
     border: none;
 }
 
-table.gallery tr td:nth-child(odd) {
-	text-align: right;
+table.gallery tr td {
+    vertical-align: top;
+    padding: 0 1em;
+}
+
+table.gallery p {
+    margin-top: 0;
 }
 
 table.scaler tr td:nth-child(1) {
