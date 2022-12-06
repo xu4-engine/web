@@ -28,7 +28,7 @@
       </ul>
     </li>
     <li class="question"><b>Q:</b> Where can I report bugs in the game?</li>
-    <li class="answer"><b>A:</b> You can report them <a href="http://sourceforge.net/tracker/?atid=417353&amp;group_id=36225&amp;func=browse">here</a> on the SourceForge project page.
+    <li class="answer"><b>A:</b> You can report them on the <a href="https://github.com/xu4-engine/u4/issues">xu4 issues</a> Github page.
       You can also mention them in the <a href="https://sourceforge.net/p/xu4/discussion/">forum</a> if you'd like.</li>
     <li class="question"><b>Q:</b> What (if anything) do you guys plan to work on after the 1.0 release?</li>
     <li class="answer"><b>A:</b> Well, we're still figuring out the exact details, but mainly we're trying to make xu4 a game engine that will ultimately run Ultima 1 through 4 and possibly Ultima 5 as well. In this process, we're extrapolating different commonalities between the games into our engine.<br /><br />
@@ -48,9 +48,9 @@
     <li class="answer"><b>A:</b>You can reset your settings to the defaults by removing the settings file.  Both the settings and the 'party.sav' savegame file are stored where applications typically store user specific data.  The exact location depends on what operating system you are running.<br /><br />
 
       <ul>
-        <li>Windows: Usually in C:\Documents and Settings\<i>username</i>\Application Data\xu4\.  The settings file is named xu4.cfg and the savegame is party.sav.</li>
-        <li>Linux: ~/.config/xu4/.  The settings file is named xu4rc and savegame is party.sav.</li>
-        <li>MacOS X: ~/Library/Application Support/xu4.  The settings file is named xu4rc and the savegame is party.sav.</li>
+        <li>Windows: Usually in C:\Users\<i>username</i>\Application Data\xu4\.  The settings file is named xu4.cfg.</li>
+        <li>Linux: ~/.config/xu4/.  The settings file is named xu4rc.</li>
+        <li>MacOS X: ~/Library/Application Support/xu4.  The settings file is named xu4rc.</li>
       </ul><br />
     </li>
   </ul>
