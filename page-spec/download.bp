@@ -46,9 +46,9 @@
   <p>Downloads are hosted with SourceForge.net.  If you have a supported system, you can download the appropriate binary archive.  If you have another system, download the source and read the README file for build directions.</p>
   <p>Please <a href="https://sourceforge.net/p/xu4/discussion/">let us know</a> if you successfully port xu4 to a new platform!</p>
   <ul>
-    <li><a href="https://sourceforge.net/projects/xu4/files/xu4/1.2/xu4-1.2-linux.tar.gz/download">xu4 1.2 for x86_64 Linux</a> <span class="details">(2022-12-06, 8.0 MB, gzipped tar file)</span></li>
+    <li><a href="https://sourceforge.net/projects/xu4/files/xu4/1.2/xu4-1.2.1-linux.tar.gz/download">xu4 1.2.1 for x86_64 Linux</a> <span class="details">(2022-12-06, 8.0 MB, gzipped tar file)</span></li>
 
-    <li><a href="https://sourceforge.net/projects/xu4/files/xu4/1.2/xu4-1.2-win32.zip/download">xu4 1.2 for x86_64 Windows</a> <span class="details">(2022-12-06, 9.7 MB, zip file)</span></li>
+    <li><a href="https://sourceforge.net/projects/xu4/files/xu4/1.2/xu4-1.2.1-win32.zip/download">xu4 1.2.1 for x86_64 Windows</a> <span class="details">(2022-12-06, 9.7 MB, zip file)</span></li>
 
     <li><a href="http://sourceforge.net/projects/xu4/files/xu4/1.2/xu4-1.2.tar.gz">xu4 1.2 source code</a> <span class="details">(2022-12-06, 8.0MB, gzipped tar file)</span></li>
 
