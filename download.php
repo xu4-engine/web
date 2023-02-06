@@ -18,21 +18,16 @@
 </div>
 <div class="section">
   <h2>xu4 Development Snapshot Builds</h2>
-   <p>No snapshots have been made since the v1.2 release, so download that
-   from the links below.</p>
-<!--
    <p>These snapshots are generated using recent source code updates.
-   Some bugs that were present in previous releases have been fixed in these snapshot builds.
    </p>
    <p>You will need Ultima IV for DOS, it is <strong>not</strong> included with the snapshots.</p>
    <ul>
     <li><a href="download/xu4-linux.tar.gz">xu4 snapshot for Linux</a> <span class="details">(<? $statinfo = stat("download/xu4-linux.tar.gz"); echo date("Y-m-d G:i T", $statinfo[9]); ?>)</span></li>
     <li><a href="download/xu4-win32.zip">xu4 snapshot for Windows</a> <span class="details">(<? $statinfo = stat("download/xu4-win32.zip"); echo date("Y-m-d G:i T", $statinfo[9]); ?>)</span></li>
    </ul>
--->
   <p>Game Modules:</p>
    <ul>
-    <li><a href="download/U4-Recreated.mod">U4-Recreated</a> (Includes voice streams for Lord British & Hawkwind)</li>
+    <li><a href="download/U4-Recreated.mod">U4-Recreated</a> (Includes voice streams for NPCs)</li>
    </ul>
   <p>OpenGL Preview:</p>
    <ul>
