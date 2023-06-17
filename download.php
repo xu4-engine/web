@@ -18,17 +18,8 @@
 </div>
 <div class="section">
   <h2>xu4 Development Snapshot Builds</h2>
-   <p>These snapshots are generated using recent source code updates.
-   </p>
-   <p>You will need Ultima IV for DOS, it is <strong>not</strong> included with the snapshots.</p>
-   <ul>
-    <li><a href="download/xu4-linux.tar.gz">xu4 snapshot for Linux</a> <span class="details">(<? $statinfo = stat("download/xu4-linux.tar.gz"); echo date("Y-m-d G:i T", $statinfo[9]); ?>)</span></li>
-    <li><a href="download/xu4-win32.zip">xu4 snapshot for Windows</a> <span class="details">(<? $statinfo = stat("download/xu4-win32.zip"); echo date("Y-m-d G:i T", $statinfo[9]); ?>)</span></li>
-   </ul>
-  <p>Game Modules:</p>
-   <ul>
-    <li><a href="download/U4-Recreated.mod">U4-Recreated</a> (Includes voice streams for NPCs)</li>
-   </ul>
+   <p>No snapshots have been made since the v1.3 release, so download that
+   from the links below.</p>
   <p>OpenGL Preview:</p>
    <ul>
     <li><a href="download/xu4-gl-linux.tar.gz">xu4 preview for Linux</a> <span class="details">(<? $statinfo = stat("download/xu4-gl-linux.tar.gz"); echo date("Y-m-d G:i T", $statinfo[9]); ?>)</span></li>
@@ -54,10 +45,14 @@
   <p>Downloads are hosted with SourceForge.net.  If you have a supported system, you can download the appropriate binary archive.  If you have another system, download the source and read the README file for build directions.</p>
   <p>Please <a href="https://sourceforge.net/p/xu4/discussion/">let us know</a> if you successfully port xu4 to a new platform!</p>
   <ul>
-    <li><a href="https://sourceforge.net/projects/xu4/files/xu4/1.2/xu4-1.2.1-linux.tar.gz/download">xu4 1.2.1 for x86_64 Linux</a> <span class="details">(2022-12-06, 8.0 MB, gzipped tar file)</span></li>
-    <li><a href="https://sourceforge.net/projects/xu4/files/xu4/1.2/xu4-1.2.1-win32.zip/download">xu4 1.2.1 for x86_64 Windows</a> <span class="details">(2022-12-06, 9.7 MB, zip file)</span></li>
-    <li><a href="http://sourceforge.net/projects/xu4/files/xu4/1.2/xu4-1.2.1.tar.gz">xu4 1.2.1 source code</a> <span class="details">(2022-12-28, 8.0MB, gzipped tar file)</span></li>
+    <li><a href="https://sourceforge.net/projects/xu4/files/xu4/1.3/xu4-1.3-linux.tar.gz/download">xu4 1.3 for x86_64 Linux</a> <span class="details">(2023-06-24, 8.0 MB, gzipped tar file)</span></li>
+    <li><a href="https://sourceforge.net/projects/xu4/files/xu4/1.3/xu4-1.3-win32.zip/download">xu4 1.3 for x86_64 Windows</a> <span class="details">(2023-06-24, 9.7 MB, zip file)</span></li>
+    <li><a href="http://sourceforge.net/projects/xu4/files/xu4/1.3/xu4-1.3.tar.gz">xu4 1.3 source code</a> <span class="details">(2023-06-24, 8.0MB, gzipped tar file)</span></li>
     <li><a href="http://sourceforge.net/project/showfiles.php?group_id=36225">Other formats and older releases</a></li>
+  </ul>
+  Game Modules:
+  <ul>
+    <li><a href="https://sourceforge.net/projects/xu4/files/xu4/1.3/U4-Recreated.mod/download">U4-Recreated</a> <span class="details">(21.6 MB, includes voice streams for NPCs)</span></li>
   </ul>
   Music Modules:
   <ul>
