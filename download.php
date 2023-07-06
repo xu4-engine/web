@@ -50,6 +50,17 @@
     <li><a href="http://sourceforge.net/projects/xu4/files/xu4/1.3/xu4-1.3.tar.gz">xu4 1.3 source code</a> <span class="details">(2023-06-24, 8.0MB, gzipped tar file)</span></li>
     <li><a href="http://sourceforge.net/project/showfiles.php?group_id=36225">Other formats and older releases</a></li>
   </ul>
+  Linux Packages:
+  <ul>
+    <li>Fedora 37 x86_64:
+      <a href="https://download.copr.fedorainfracloud.org/results/wickedsmoke/xu4/fedora-37-x86_64/06145577-xu4/xu4-1.3-1.fc37.x86_64.rpm">xu4 1.3 RPM</a>,
+      <a href="https://download.copr.fedorainfracloud.org/results/wickedsmoke/faun/fedora-37-x86_64/06087559-faun/faun-0.1.3-1.fc37.x86_64.rpm">Faun RPM</a>
+    </li>
+    <li>Fedora 38 x86_64:
+      <a href="https://download.copr.fedorainfracloud.org/results/wickedsmoke/xu4/fedora-38-x86_64/06145577-xu4/xu4-1.3-1.fc38.x86_64.rpm">xu4 1.3 RPM</a>,
+      <a href="https://download.copr.fedorainfracloud.org/results/wickedsmoke/faun/fedora-38-x86_64/06087559-faun/faun-0.1.3-1.fc38.x86_64.rpm">Faun RPM</a>
+    </li>
+  </ul>
   Game Modules:
   <ul>
     <li><a href="https://sourceforge.net/projects/xu4/files/xu4/1.3/U4-Recreated.mod/download">U4-Recreated</a> <span class="details">(21.6 MB, includes voice streams for NPCs)</span></li>
