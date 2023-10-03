@@ -26,6 +26,10 @@
     <li><a href="download/xu4-linux.tar.gz">xu4 snapshot for Linux</a> <span class="details">(<? $statinfo = stat("download/xu4-linux.tar.gz"); echo date("Y-m-d G:i T", $statinfo[9]); ?>)</span></li>
     <li><a href="download/xu4-win32.zip">xu4 snapshot for Windows</a> <span class="details">(<? $statinfo = stat("download/xu4-win32.zip"); echo date("Y-m-d G:i T", $statinfo[9]); ?>)</span></li>
    </ul>
+  <p>Modules:</p>
+   <ul>
+    <li><a href="download/U4-Recreated-DR.mod">U4-Recreated-DR.mod</a> <span class="details">(<? $statinfo = stat("download/U4-Recreated-DR.mod"); echo date("Y-m-d G:i T", $statinfo[9]); ?>)</span></li>
+  </ul>
   <p>OpenGL Preview:</p>
    <ul>
     <li><a href="download/xu4-gl-linux.tar.gz">xu4 preview for Linux</a> <span class="details">(<? $statinfo = stat("download/xu4-gl-linux.tar.gz"); echo date("Y-m-d G:i T", $statinfo[9]); ?>)</span></li>
