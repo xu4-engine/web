@@ -153,7 +153,7 @@ html-page: func [file] [
     spec: read/text file
     parse spec [some[
         any white '[' tok: to ']' :tok skip (append parts to-block tok)
-      | any white ';' thru '^/'
+      | any white [';' thru '^/' | "/*" thru "*/"]
       | tok: thru '^/' :tok               (if ne? tok "^/" [append parts tok])
     ]]
     append parts "</body>^/</html>^/"
