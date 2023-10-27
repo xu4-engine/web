@@ -86,12 +86,12 @@ keywords: context [
         key: 1
         foreach [url name] [
             "index.html" "Home"
-            "https://sourceforge.net/p/xu4" "Sourceforge Project"
             "screenshots.html" "Screenshots"
            ;"gypsy.html" "Gypsy"
             "https://sourceforge.net/p/xu4/discussion/" "Discussion Forum"
             "faq.html" "FAQ"
             "download.php" "Download"
+            "https://sourceforge.net/p/xu4" "Sourceforge"
             "links.html" "Links"
         ][
             span: either eq? id key
