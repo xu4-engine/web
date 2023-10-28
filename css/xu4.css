@@ -53,6 +53,8 @@ h2 {
 
 .date {
     font-family: monospace;
+    vertical-align: baseline;
+    padding: 0em 0.6em;
 }
 
 .footer {

@@ -118,17 +118,17 @@ keywords: context [
 
     news: func [count] [
         out: make string! 1024
+        append out {<table>^/}
         ifn int? count [count: 999]
         parse read/text %page-spec/history.txt [count [
             date: to ' ' :date skip
             line: to '^/' :line (
                 append out rejoin [
-                    {<li><span class="newsitem"><span class="date">} date
-                    {</span> - } line {</span></li>}
+                    {<tr><td class="date">} date {</td><td style="vertical-align: baseline;">} line {</td></tr>^/}
                 ]
             )
         ]]
-        out
+        append out {</table>^/}
     ]
 ]
 
