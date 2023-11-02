@@ -13,14 +13,14 @@
         </td>
         <td>
         <a href="images/intro2.png"><img height="100" width="160" src="images/intro2.png" alt="Card Casting" /></a>
-        <a href="images/intro2-vu.png"><img height="100" width="160" src="images/intro2-vu.png" alt="Upgrade Card Casting" /></a>
+        <a href="images/intro2-r.png"><img height="100" width="160" src="images/intro2-r.png" alt="Card Casting (Recreated)" /></a>
         <p>Talking with the Gypsy</p>
         </td>
       </tr>
       <tr>
         <td>
-        <a href="images/shot1.png"><img height="100" width="160" src="images/shot1.png" alt="Screenshot 1" /></a>
-        <a href="images/shot2.png"><img height="100" width="160" src="images/shot2.png" alt="Screenshot 2" /></a>
+        <a href="images/shot1.png"><img height="100" width="160" src="images/shot1.png" alt="Outdoors" /></a>
+        <a href="images/outdoors-r.png"><img height="100" width="160" src="images/outdoors-r.png" alt="Outdoors (Recreated)" /></a>
         <p>Outdoors</p>
         </td>
         <td>
@@ -48,7 +48,7 @@
 
 <div class="section">
   <h2>Scaler Comparison</h2>
-  <p>Ultima 4 was originally released supporting a screen resolution of 320x200.  Because computers typically run at much higher resolutions now, xu4 will automatically scale all the graphics to a more readable size.  HQX and xBR-lv2 scaling shaders are provided to anti-alias the larger pixels.  Click on the image below to compare their results.</p>
+  <p>Ultima 4 was originally released supporting a screen resolution of 320x200.  Because computers typically run at much higher resolutions now, xu4 will automatically scale all the graphics to a more readable size.  HQX, xBR-lv2, and xBRZ scaling shaders are provided to anti-alias the larger pixels.  Click on the image below to compare their results.</p>
   <p style="text-align: center">
 	<a href="images/filter.png"><img width="480" height="300" src="images/filter.png" alt="Pixel Filters" /></a>
  </p>
