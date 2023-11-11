@@ -17,6 +17,9 @@ update:
 # NOTE: The AmiU4Shots, webmaps, & sheetmusic directories could be included
 #       in the update, but they haven't changed in years.
 
+dry:
+	rsync -av -n -e ssh *.html *.php css images download $(SSH_URL)
+
 fetch_dl:
 	rsync -av -e ssh $(SSH_URL)/download .
 
