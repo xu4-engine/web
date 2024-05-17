@@ -78,6 +78,9 @@
     <li><a href="https://sourceforge.net/projects/xu4/files/xu4/1.1/U4-Aradindae.mod/download">Aradindae Dragon</a> <span class="details">(2022-07-13, 9.7 MB, xu4 module)</span></li>
     <li><a href="https://sourceforge.net/projects/xu4/files/xu4/1.3/U4-Cloudschatze.mod/download">Cloudschatze ST32</a> <span class="details">(2023-07-03, 7.9 MB, xu4 module)</span></li>
     <li><a href="https://sourceforge.net/projects/xu4/files/xu4/1.3/U4-Hurin.mod/download">Húrin - Roland SC-55st</a> <span class="details">(2023-09-30, 9.6 MB, xu4 module)</span></li>
+    <li><a href="https://sourceforge.net/projects/xu4/files/xu4/1.4/U4-PiecesOf8Bit.mod/download">Pieces of 8-Bit - HQ Remake 2024</a> <span class="details">(2024-05-16, 24.5 MB, xu4 module. More Pieces of 8-Bit remakes are on
+        <a href="https://www.youtube.com/@HQRemakes">YouTube</a>.)</span>
+    </li>
     <li><a href="https://sourceforge.net/projects/xu4/files/xu4/1.1/U4-Voyager-11.mod/download">Voyager Dragon 1.1</a> <span class="details">(2022-07-13, 13.6 MB, xu4 module)</span></li>
     <li><a href="https://sourceforge.net/projects/xu4/files/xu4/1.1/U4-Voyager-12.mod/download">Voyager Dragon 1.2</a> <span class="details">(2022-07-13, 17.3 MB, xu4 module)</span></li>
   </ul>
