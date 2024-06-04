@@ -52,6 +52,10 @@
   </ul>
   Linux Packages:
   <ul>
+    <li>Debian 12 amd64:
+      <a href="https://sourceforge.net/projects/xu4/files/xu4/1.4/xu4_1.4-0debian12_amd64.deb/download">xu4 1.4 package</a>,
+      <a href="https://sourceforge.net/projects/xu4/files/xu4/1.4/faun_0.1.5-0debian12_amd64.deb/download">Faun package</a>
+    </li>
     <li>Fedora 37 x86_64:
       <a href="https://download.copr.fedorainfracloud.org/results/wickedsmoke/xu4/fedora-37-x86_64/06572020-xu4/xu4-1.4-1.fc37.x86_64.rpm">xu4 1.4 RPM</a>,
       <a href="https://download.copr.fedorainfracloud.org/results/wickedsmoke/faun/fedora-37-x86_64/06477660-faun/faun-0.1.4-1.fc37.x86_64.rpm">Faun RPM</a>
