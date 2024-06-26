@@ -50,7 +50,7 @@ To remove files from the server use an rsync command with the "--delete"
 option or login to the web server.
 
 To login create an interactive shell session
-(see http://sourceforge.net/apps/trac/sourceforge/wiki/Shell%20service):
+(see https://sourceforge.net/p/forge/documentation/Shell%20Service/):
 
     ssh -t ${SF_USER},xu4@shell.sourceforge.net create
     cd /home/project-web/xu4/htdocs
