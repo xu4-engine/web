@@ -15,27 +15,28 @@ page-title: none
 
 keywords: context [
     html: func [
-        title /style style-href /keywords key-content
+        title /style style-href /keywords key-content /favicon image
         /extern page-title
     ][
         page-title: title
-        style-sheet: either style style-href %css/xu4.css
-        meta-key: either keywords [
-            rejoin [{^/  <meta name="keywords" content="} key-content {" />}]
-        ] ""
         construct {{
             <!DOCTYPE html>
             <html lang="en">
             <head>
               <meta charset="utf-8">$MM
-              <title>$TT</title>
+              <title>$TT</title>$LI
               <link rel="stylesheet" type="text/css" href="$SS">
             </head>
             <body>
         }}
-        [
-            "$MM" meta-key
-            "$SS" style-sheet
+        reduce [
+            "$LI" either favicon [ rejoin [
+                {^/  <link rel="icon" href="} image {">}
+            ]] ""
+            "$MM" either keywords [ rejoin [
+                {^/  <meta name="keywords" content="} key-content {" />}
+            ]] ""
+            "$SS" either style style-href %css/xu4.css
             "$TT" title
         ]
     ]
