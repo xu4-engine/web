@@ -2,7 +2,7 @@
 [site-menu 4]
 
 <div class="divider">
-  <img src="images/small-castle.png" width="96" height="32" alt="[picture of Ultima 4 castle]"/>
+  <img src="images/small-castle.png" width="96" height="32" alt="[picture of Ultima 4 castle]">
 </div>
 
 <div class="section" id="info">
@@ -18,9 +18,9 @@
     <li class="question"><b>Q:</b> What do I need to play xu4?</li>
     <li class="answer"><b>A:</b> You need <b>xu4</b> itself, and the <b>original Ultima IV</b> game files. You can find these on the <a href="download.php">download page</a>.</li>
     <li class="question"><b>Q:</b> When I start xu4, I get an error saying, <i>"unable to load data files: is Ultima IV installed?  See http://xu4.sourceforge.net/"</i></li>
-    <li class="answer"><b>A:</b> Make sure you have the original Ultima IV game files in the same directory as xu4. xu4 requires the following:<br /><br />
+    <li class="answer"><b>A:</b> Make sure you have the original Ultima IV game files in the same directory as xu4. xu4 requires the following:<br><br>
       <ul>
-        <li>A directory named "ultima4" which contains the original game files <b>or</b><br />
+        <li>A directory named "ultima4" which contains the original game files <b>or</b><br>
             A zip file in the same directory as xu4.</li>
         <li>The zip file <b>must</b> be named "ultima4.zip" or "ultima4-1.01.zip"</li>
         <li>If using the upgrade package, it must either be installed in the "ultima4" directory
@@ -31,7 +31,7 @@
     <li class="answer"><b>A:</b> You can report them on the <a href="https://github.com/xu4-engine/u4/issues">xu4 issues</a> Github page.
       You can also mention them in the <a href="https://sourceforge.net/p/xu4/discussion/">forum</a> if you'd like.</li>
     <li class="question"><b>Q:</b> What (if anything) do you guys plan to work on after the 1.0 release?</li>
-    <li class="answer"><b>A:</b> Well, we're still figuring out the exact details, but mainly we're trying to make xu4 a game engine that will ultimately run Ultima 1 through 4 and possibly Ultima 5 as well. In this process, we're extrapolating different commonalities between the games into our engine.<br /><br />
+    <li class="answer"><b>A:</b> Well, we're still figuring out the exact details, but mainly we're trying to make xu4 a game engine that will ultimately run Ultima 1 through 4 and possibly Ultima 5 as well. In this process, we're extrapolating different commonalities between the games into our engine.<br><br>
 
       This includes:
       <ul>
@@ -41,17 +41,17 @@
         <li>combat styles</li>
         <li>conversations</li>
         <li>vendors</li>
-      </ul><br />
+      </ul><br>
       That's the direction we're headed at least.
     </li>
     <li class="question"><b>Q:</b> How can I change or reset my settings? Where is my savegame stored?</li>
-    <li class="answer"><b>A:</b>You can reset your settings to the defaults by removing the settings file.  Both the settings and the 'party.sav' savegame file are stored where applications typically store user specific data.  The exact location depends on what operating system you are running.<br /><br />
+    <li class="answer"><b>A:</b>You can reset your settings to the defaults by removing the settings file.  Both the settings and the 'party.sav' savegame file are stored where applications typically store user specific data.  The exact location depends on what operating system you are running.<br><br>
 
       <ul>
         <li>Windows: Usually in C:\Users\<i>username</i>\Application Data\xu4\.  The settings file is named xu4.cfg.</li>
         <li>Linux: ~/.config/xu4/.  The settings file is named xu4rc.</li>
         <li>MacOS X: ~/Library/Application Support/xu4.  The settings file is named xu4rc.</li>
-      </ul><br />
+      </ul><br>
     </li>
   </ul>
 </div>

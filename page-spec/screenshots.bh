@@ -7,25 +7,25 @@
   <table class="gallery">
       <tr>
         <td>
-        <a href="images/intro1.png"><img height="100" width="160" src="images/intro1.png" alt="Introduction" /></a>
-        <a href="images/intro1-vu.png"><img height="100" width="160" src="images/intro1-vu.png" alt="Upgrade Introduction" /></a>
+        <a href="images/intro1.png"><img height="100" width="160" src="images/intro1.png" alt="Introduction"></a>
+        <a href="images/intro1-vu.png"><img height="100" width="160" src="images/intro1-vu.png" alt="Upgrade Introduction"></a>
         <p>Introduction sequence</p>
         </td>
         <td>
-        <a href="images/intro2.png"><img height="100" width="160" src="images/intro2.png" alt="Card Casting" /></a>
-        <a href="images/intro2-r.png"><img height="100" width="160" src="images/intro2-r.png" alt="Card Casting (Recreated)" /></a>
+        <a href="images/intro2.png"><img height="100" width="160" src="images/intro2.png" alt="Card Casting"></a>
+        <a href="images/intro2-r.png"><img height="100" width="160" src="images/intro2-r.png" alt="Card Casting (Recreated)"></a>
         <p>Talking with the Gypsy</p>
         </td>
       </tr>
       <tr>
         <td>
-        <a href="images/shot1.png"><img height="100" width="160" src="images/shot1.png" alt="Outdoors" /></a>
-        <a href="images/outdoors-r.png"><img height="100" width="160" src="images/outdoors-r.png" alt="Outdoors (Recreated)" /></a>
+        <a href="images/shot1.png"><img height="100" width="160" src="images/shot1.png" alt="Outdoors"></a>
+        <a href="images/outdoors-r.png"><img height="100" width="160" src="images/outdoors-r.png" alt="Outdoors (Recreated)"></a>
         <p>Outdoors</p>
         </td>
         <td>
-        <a href="images/dungeon.png"><img height="100" width="160" src="images/dungeon.png" alt="Dungeon Screenshot" /></a>
-        <a href="images/dungeon-up.png"><img height="100" width="160" src="images/dungeon-up.png" alt="Upgrade Dungeon" /></a>
+        <a href="images/dungeon.png"><img height="100" width="160" src="images/dungeon.png" alt="Dungeon Screenshot"></a>
+        <a href="images/dungeon-up.png"><img height="100" width="160" src="images/dungeon-up.png" alt="Upgrade Dungeon"></a>
         <p>In a dungeon</p>
         </td>
       </tr>
@@ -33,13 +33,13 @@
 
   <table class="gallery">
       <tr>
-        <td><a href="images/forest.png"><img height="100" width="160" src="images/forest.png" alt="Forest Screenshot" /></a>
+        <td><a href="images/forest.png"><img height="100" width="160" src="images/forest.png" alt="Forest Screenshot"></a>
         <p>In the forest by Yew</p>
         </td>
-        <td><a href="images/moongate.png"><img height="100" width="160" src="images/moongate.png" alt="Moongate Screenshot" /></a>
+        <td><a href="images/moongate.png"><img height="100" width="160" src="images/moongate.png" alt="Moongate Screenshot"></a>
         <p>Near a moongate on horseback</p>
         </td>
-        <td><a href="images/codex.png"><img height="100" width="160" src="images/codex.png" alt="Abyss Screenshot" /></a>
+        <td><a href="images/codex.png"><img height="100" width="160" src="images/codex.png" alt="Abyss Screenshot"></a>
         <p>In the depths of the Abyss</p>
         </td>
       </tr>
@@ -50,7 +50,7 @@
   <h2>Scaler Comparison</h2>
   <p>Ultima 4 was originally released supporting a screen resolution of 320x200.  Because computers typically run at much higher resolutions now, xu4 will automatically scale all the graphics to a more readable size.  HQX, xBR-lv2, and xBRZ scaling shaders are provided to anti-alias the larger pixels.  Click on the image below to compare their results.</p>
   <p style="text-align: center">
-	<a href="images/filter.png"><img width="480" height="300" src="images/filter.png" alt="Pixel Filters" /></a>
+	<a href="images/filter.png"><img width="480" height="300" src="images/filter.png" alt="Pixel Filters"></a>
  </p>
 </div>
 

@@ -34,7 +34,7 @@ keywords: context [
                 {^/  <link rel="icon" href="} image {">}
             ]] ""
             "$MM" either keywords [ rejoin [
-                {^/  <meta name="keywords" content="} key-content {" />}
+                {^/  <meta name="keywords" content="} key-content {">}
             ]] ""
             "$SS" either style style-href %css/xu4.css
             "$TT" title
@@ -111,7 +111,7 @@ keywords: context [
         {{
         <div class="footer">
           Hosted at&nbsp; <a href="http://sourceforge.net">
-          <img src="http://sourceforge.net/sflogo.php?group_id=36225&amp;type=18" width="210" height="62" alt="SourceForge Logo" style="vertical-align: middle"/>
+          <img src="http://sourceforge.net/sflogo.php?group_id=36225&amp;type=18" width="210" height="62" alt="SourceForge Logo" style="vertical-align: middle">
           </a>
         </div>
         }}
